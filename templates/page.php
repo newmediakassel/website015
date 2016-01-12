@@ -53,8 +53,10 @@
 {% endblock %}
 
 {% block js %}
+<script src="/js/fitvids.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 	document.addEventListener("DOMContentLoaded", function(event) { 
+		fitvids('#main');
  		document.getElementById('main').scrollIntoView();
 	});
 </script>
