@@ -7,17 +7,20 @@ HideInNavigation: true
 ---
 
 
-The class _New Media_ within the course _Visual Communication_ at the _School of Art and Design Kassel_ walks a fine line between art, design, provocation and study. The main focus lies on the media consumption of society and its perpetual obsession with technological progress, change and transformation; established processes and methods are permanently questioned and modified.
+Der Studienschwerpunkt Neue Medien wurde Ende 2003 im Studiengang Visuelle Kommunikation an der Kunsthochschule Kassel etabliert.
 
-The students in the class New Media see themselves as researchers, artists, designers and developers at the same time.
+Das Studium der Neuen Medien bedeutet eine künstlerische oder gestalterische Auseinandersetzung mit Technologien einzugehen. Es gilt zukünftige Infrastrukturen zu erforschen und zu entwickeln, hierbei Irrwege zu akzeptieren und daraus zu lernen. Studierende sind aufgefordert, Technologiebegeisterung kritisch zu hinterfragen, zu reflektieren und in theoretischen und gesellschaftlichen Diskursen neu zu verhandeln. Wir verlassen immer wieder etablierte Strategien der Kommunikation um Neues zu entdecken.
 
-Realising and publicly defending a deeply personal idea means also being able to realise the ideas of others. An outstanding developer of own concepts and ideas will have the ability to implement external ideas and concepts as well.
+Für die Aufnahme in die Klasse sind keine Vorkenntnisse nötig. Neugier, Enthusiasmus und Experimentierfreude sind jedoch Voraussetzung. Der Umgang mit Technologie wird in Workshops, Seminaren und größtenteils durch den Klassenverbund vermittelt.
 
-There is no need to train service providers for an existing industry, but personalities who by discourse acquired skills which are constantly expanded and established – for oneself and others.
+Die Klasse Neue Medien bietet interessierten Studierenden den Freiraum, die Zeit und den Schutz, in Form eines Kollektivs in den Klassenräumen eigenen Interessen nachzugehen, die eigene Meinung zu schärfen und auf experimenteller Basis zu forschen. Ziel ist es eine eigene Position, eine eigene Methode und das eigene Interessenfeld (Forschungsgebiet) zu entwickeln. Die Beschäftigung mit neuesten Technologien findet ohne eine festgelegte und vorbestimmte Begründung statt. Das Experiment wird einem definierten Nutzen vorgezogen.
 
-By use of the Internet and support of the group these skills are exchanged, discussed and broadened self-educatedly. This provides a topicality and relevance which eludes institutions.
+Der Begriff Neue Medien stammt aus den 60er Jahren. Die seit dem betriebene Forschung führte zur Freiheit und Selbstermächtigung der User (Produzenten und Konsumenten), zu neuen Kunstformen und hat bestehende Kunst- und Gestaltungsformen revolutioniert. Die Digitalisierung der Medien führte in Gesellschaft und Politik zu Spannungen. Etablierte Werte, Gesetze und Rituale müssen konstant hinterfragt, aktualisiert und in den öffentlichen Diskurs eingebracht werden. (z.B. : Überwachung, Eigentum, Privatsphäre, Cyberterror, Hacking, etc…)
 
-To study “New Media” is to be an author. To learn from oneself, to learn seeing, speaking and thinking. To develop a culture of debate. To work on projects together. To mix media and ideas, to fail and learn from it. The aim is to shape a personal position and methodology.
+Durch den grenzenlosen Einzug der Digitalisierung, erleben etablierte Medien wie Film, Grafik, Illustration und Fotografie eine Renaissance.  Das Internet erleichtert Verbreitung, Kritik und Bewertung digital generierter oder digitalisierter Inhalte – Neue Medien als Schnittstelle zwischen traditionell etablierten Medien und dem User. Der Fokus liegt in der Erforschung technischer Innovationen, künstlerischer Experimente und aktivistischer Eingriffe in den Prozess der Vermittlung.
+
+> The principle of academic freedom is designed to make sure that powers outside the university, including government and corporations, are not able to control the curriculum or intervene in extra-mural speech.  
+_Judith Butler_
 
 
 ## Get in Touch
@@ -29,12 +32,14 @@ To study “New Media” is to be an author. To learn from oneself, to learn see
 
 ## Teaching
 
+- Kim Asendorf - _Artistic Associate SS2012-SS2013_
 - Aram Bartholl – _Guest Professor SW2015_
 - Joel Baumann  – _Professor_
 - Hans Bernhard – _Guest Professor WS2013-SS2015_
 - [Martin Böttger](http://www.tsaworks.com/) – _Artistic Associate XXX-SS2014_
 - Darsha Hewitt – _Guest Professor WS2015-SS2016_
 - Jörn Röder – _Artistic Associate_
+- Olaf Vahl - _Artistic Associate XXX-XXX_
 
 ## Students
 
@@ -56,6 +61,7 @@ To study “New Media” is to be an author. To learn from oneself, to learn see
 - Luise Matthes
 - [Jasper Meiners](http://jaspermeiners.com)
 - Isabel Paehr
+- Flaut M. Rauch
 - [Erik Schäfer](http://fromerikwithlove.com)
 - [Ippolit Vikhorev](http://ippolit.biz)
 - [Rene Wagner](http://rene-wagner.tumblr.com)
