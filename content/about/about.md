@@ -20,7 +20,7 @@ Der Begriff Neue Medien stammt aus den 60er Jahren. Die seit dem betriebene Fors
 Durch den grenzenlosen Einzug der Digitalisierung, erleben etablierte Medien wie Film, Grafik, Illustration und Fotografie eine Renaissance.  Das Internet erleichtert Verbreitung, Kritik und Bewertung digital generierter oder digitalisierter Inhalte – Neue Medien als Schnittstelle zwischen traditionell etablierten Medien und dem User. Der Fokus liegt in der Erforschung technischer Innovationen, künstlerischer Experimente und aktivistischer Eingriffe in den Prozess der Vermittlung.
 
 > The principle of academic freedom is designed to make sure that powers outside the university, including government and corporations, are not able to control the curriculum or intervene in extra-mural speech.  
-_Judith Butler_
+_– Judith Butler_
 
 
 ## Get in Touch

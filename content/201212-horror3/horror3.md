@@ -1,6 +1,6 @@
 # Horror³
 
-Authors: Joel Baumann, Tobias Zarges, Sebastian Haydt
+Authors: Joel Baumann, Sebastian Haydt, Tobias Zarges
 Date: 2012/12/01
 
 ---
