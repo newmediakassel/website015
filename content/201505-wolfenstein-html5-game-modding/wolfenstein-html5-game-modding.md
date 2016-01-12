@@ -1,5 +1,10 @@
 # Wolfenstein.HTML5 Game Modding
 
+MaxWidth: 610px
+
+---
+---
+
 ## Workshop with JODI
 
 ![](wolfenstein-html5-game-modding.jpg)
