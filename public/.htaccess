@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+RedirectMatch 301 ^(.+)/$ $1
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . /index.php [L]
+
