@@ -2,6 +2,7 @@
 
 Date: 2011/02/01
 Authors: [Alfredo Bautista](http://www.bautista-ferreiro.de/)
+MaxWidth: 500px
 
 ---
 ---
