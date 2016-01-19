@@ -50,6 +50,12 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 			</ul>
 
 			<ul>
+				<li><a href="http://newsletter.newmediakassel.com">Subscribe to our Newsletter</a></li>
+				<li><a href="http://calendar.newmediakassel.com">See our Events in the Calendar</a></li>
+				<li><a href="https://twitter.com/nmkhk">Follow us on Twitter</a></li>
+			</ul>
+
+			<ul>
 				{% block navigation %}
 				
 					{% for Link in Navigation %}
@@ -57,12 +63,6 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 					{% endfor %}
 
 				{% endblock %}
-			</ul>
-
-			<ul>
-				<li><a href="http://newsletter.newmediakassel.com">Subscribe to our Newsletter</a></li>
-				<li><a href="http://calendar.newmediakassel.com">See our Events in the Calendar</a></li>
-				<li><a href="https://twitter.com/nmkhk">Follow us on Twitter</a></li>
 			</ul>
 		</nav>
 
