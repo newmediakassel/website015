@@ -100,10 +100,17 @@ class NavigationLoader extends ContentLoader {
 			$title = $project->get('MenuTitle') ? $project->get('MenuTitle') : $project->get('Title');
 			$url = $this->config->pathFor('project', strtolower($folder->url));
 
-			$link = array(
+			$itemDefaults = array(
 				'Title' => $title,
 				'Url' => $url
 			);
+			$navItem = array();
+
+			if (method_exists($this->config, 'updateNavigationItem')) {
+				$this->config->updateNavigationItem($navItem, $project);
+			}
+
+			$link = array_merge($itemDefaults, $navItem);
 
 			$project->addData($link);
 

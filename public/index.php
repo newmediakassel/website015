@@ -45,6 +45,16 @@ class MyAppConfig extends \joernroeder\AppConfig {
 	public function notFound() {
 		return Flight::notFound();
 	}
+
+	public function updateNavigationItem(&$navItem, $page) {
+		$additionalKeys = array('Type');
+
+		foreach ($additionalKeys as $key) {
+			if ($val = $page->get($key)) {
+				$navItem[$key] = $val;
+			}
+		}
+	}
 }
 
 // ----------------------------------------

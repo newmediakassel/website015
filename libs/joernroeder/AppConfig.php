@@ -74,4 +74,8 @@ abstract class AppConfig {
 		);
 	}
 
+	// add 
+	public function updateNavigationItem(&$navItem, $page) {
+	}
+
 }
