@@ -1,5 +1,10 @@
 # How To Frankenstein a Circuit and (continue to) Rebuild the Internet out of Garbage
 
+Type: Workshop
+
+---
+---
+
 ## Workshop with Darsha Hewitt
 
 ![](Frankenstein-a-Circuit02.jpg)
