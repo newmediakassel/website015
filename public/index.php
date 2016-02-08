@@ -2,10 +2,13 @@
 
 require '../vendor/autoload.php';
 
+use joernroeder\Pocomd\Config;
+use joernroeder\Pocomd\Page;
+
 /**
  * The AppConfig class acts as a middleware between the content loaders and the routing framework (http://flightphp.com/)
  */
-class MyAppConfig extends \joernroeder\AppConfig {
+class MyAppConfig extends Config {
 
 	protected static $config = array(
 		'debug'						=> true,
@@ -38,7 +41,7 @@ class MyAppConfig extends \joernroeder\AppConfig {
 		return '/' . join('/', $urlSegements);
 	}
 
-	public function render(\joernroeder\Page $page) {
+	public function render(Page $page) {
 		return Flight::view()->display($page->getTemplate(), $page->getTemplateData());
 	}
 
