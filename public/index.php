@@ -10,7 +10,7 @@ use joernroeder\Pocomd\Page;
  */
 class MyAppConfig extends Config {
 
-	protected static $config = array(
+	public static $defaults = array(
 		'debug'						=> true,
 		'logErrors'					=> true,
 		'showErrors'				=> true,
