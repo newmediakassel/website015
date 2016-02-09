@@ -1,5 +1,8 @@
 # Identity in Human Networked IO
 
+Date: 2015/05/01
+Type: Workshop
+
 ---
 ---
 

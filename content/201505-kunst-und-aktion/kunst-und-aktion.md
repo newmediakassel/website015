@@ -1,5 +1,11 @@
 # Kunst und Aktion
 
+Date: 2015/05/01
+Type: Workshop
+
+---
+---
+
 ## Workshop mit Alexander Nikolic
 
 ![](kunst-und-aktion.jpg)
