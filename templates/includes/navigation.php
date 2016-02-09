@@ -22,6 +22,15 @@
 			font-weight: bold;
 			text-decoration: underline;
 		}
+
+		#top nav ul li pre {
+			display: inline;
+		}
+
+		#top nav ul li .date {
+			display: inline-block;
+			margin-top: 1em;
+		}
 	</style>
 	<center>
 		<pre>
@@ -59,7 +68,33 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 				{% block navigation %}
 				
 					{% for Link in Navigation %}
-						<li><a href="{{ Link.Url }}" rel="bookmark"{% if Link.IsActive %} class="active"{% endif %}>{{ Link.Title }}</a></li>
+						<li>
+							{% if Link.IsDate %}
+								<strong class="date">{{ Link.Title }}</strong>
+							{% elseif Link.Url %}
+								<a href="{{ Link.Url }}" rel="bookmark"{% if Link.IsActive %} class="active"{% endif %}>
+									{{ Link.Title }}
+								</a>
+							{% else %}
+								{{ Link.Title }}
+							{% endif %}
+
+							{% if Link.Type %}
+								{% if (Link.Type)|lower == "workshop" %}
+									<pre> > Workshop</pre>
+								{% elseif (Link.Type)|lower == "project" %}
+									<pre> > Project</pre>
+								{% elseif (Link.Type)|lower == "exhibition" %}
+									<pre> > Exhibition</pre>
+								{% elseif (Link.Type)|lower == "talk" or (Link.Type)|lower == "lecture" %}
+									<pre> > Lecture</pre>
+								{% else %}
+									<!-- No Type defined -->
+								{% endif %}
+							{% else %}
+								<pre></pre>
+							{% endif %}
+						</li>
 					{% endfor %}
 
 				{% endblock %}
