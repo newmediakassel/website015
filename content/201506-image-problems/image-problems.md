@@ -1,5 +1,11 @@
 # Image Problems
 
+Date: 2015/06/01
+Type: Workshop
+
+---
+---
+
 ## Workshop mit Stefan Lutschinger
 
 ![](image-problems.jpg)

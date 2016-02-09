@@ -1,5 +1,6 @@
 # How To Frankenstein a Circuit and (continue to) Rebuild the Internet out of Garbage
 
+Date: 2015/12/01
 Type: Workshop
 
 ---
