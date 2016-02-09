@@ -32,14 +32,14 @@ _– Judith Butler_
 
 ## Teaching
 
-- Kim Asendorf - _Artistic Associate SS2012-SS2013_
-- Aram Bartholl – _Guest Professor SW2015_
-- Joel Baumann  – _Professor_
-- Hans Bernhard – _Guest Professor WS2013-SS2015_
+- [Kim Asendorf](http://kimasendorf.com) - _Artistic Associate SS2012-SS2013_
+- [Aram Bartholl](http://datenform.de) – _Guest Professor SW2015_
+- [Joel Baumann](http://joelbaumann.com)  – _Professor_
+- [Hans Bernhard](http://ubermorgen.com) – _Guest Professor WS2013-SS2015_
 - [Martin Böttger](http://www.tsaworks.com/) – _Artistic Associate XXX-SS2014_
-- Darsha Hewitt – _Guest Professor WS2015-SS2016_
-- Jörn Röder – _Artistic Associate_
-- Olaf Vahl - _Artistic Associate XXX-XXX_
+- [Darsha Hewitt](http://darsha.org) – _Guest Professor WS2015-SS2016_
+- [Jörn Röder](http://joernroeder.de) – _Artistic Associate_
+- [Olaf Val](http://olafval.de) - _Artistic Associate XXX-XXX_
 
 ## Students
 
