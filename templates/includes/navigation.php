@@ -70,7 +70,7 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 					{% for Link in Navigation %}
 						<li>
 							{% if Link.IsDate %}
-								<strong class="date">{{ Link.Title }}</strong>
+								~ <strong class="date">{{ Link.Title }}</strong> ~
 							{% elseif Link.Url %}
 								<a href="{{ Link.Url }}" rel="bookmark"{% if Link.IsActive %} class="active"{% endif %}>
 									{{ Link.Title }}
