@@ -1,9 +1,10 @@
 <?php
 
-require '../vendor/autoload.php';
+require __DIR__ . '/../vendor/autoload.php';
 
 use joernroeder\Pocomd\Config;
 use joernroeder\Pocomd\Page;
+use joernroeder\Pocomd\NavigationLoader;
 
 /**
  * The AppConfig class acts as a middleware between the content loaders and the routing framework (http://flightphp.com/)
@@ -50,7 +51,7 @@ class MyAppConfig extends Config {
 	}
 
 	public function updateNavigationItem(&$navItem, $page) {
-		$additionalKeys = array('Type');
+		$additionalKeys = array('Type', 'Date');
 
 		foreach ($additionalKeys as $key) {
 			if ($val = $page->get($key)) {
@@ -58,9 +59,45 @@ class MyAppConfig extends Config {
 			}
 		}
 	}
+
+	// override factories
+	
+	public function createNavigationLoader($context) {
+		return new MyNavigationLoader($context);
+	}
 }
 
 // ----------------------------------------
+
+class MyNavigationLoader extends NavigationLoader {
+	
+	// adds a year seperator to the navigation list
+	public function getLinks($currentUrl = null) {
+		$links = parent::getLinks($currentUrl);
+		$currentDate = null;
+		$items = array();
+
+		foreach ($links as $link) {
+			$date = isset($link['Date']) ? $link['Date'] : null;
+
+			// check if the link has a new date.
+			// add it to the items list an reset the date.
+			if ($date && $currentDate != $date) {
+				$items[] = array(
+					'Title' => $date,
+					'IsDate' => true
+				);
+
+				$currentDate = $date;
+			}
+
+			// push link to items array
+			$items[] = $link;
+		}
+
+		return $items;
+	}
+}
 
 /**
  * Apply AppConfig and global settings to Flight.
