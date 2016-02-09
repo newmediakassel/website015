@@ -23,10 +23,19 @@
 			text-decoration: underline;
 		}
 
-		#top nav ul li pre {
-			display: inline;
+		/* indicate class related items */
+		#top nav ul li.workshop,
+		#top nav ul li.exhibition,
+		#top nav ul li.talk,
+		#top nav ul li.lecture {
+			font-style: italic;
 		}
 
+		#top nav ul li abbr {
+			cursor: help;
+		}
+
+		/* year separator */
 		#top nav ul li .date {
 			display: inline-block;
 			margin-top: 1em;
@@ -68,13 +77,19 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 				{% block navigation %}
 				
 					{% for Link in Navigation %}
-						<li>
+						<li{% if Link.Type %} class="{{ Link.Type|lower|e('html_attr') }}"{% endif %}>
 							{% if Link.IsDate %}
 								~ <strong class="date">{{ Link.Title }}</strong> ~
 							{% elseif Link.Url %}
-								<a href="{{ Link.Url }}" rel="bookmark"{% if Link.IsActive %} class="active"{% endif %}>
+								<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
 									{{ Link.Title }}
 								</a>
+
+								{% if Link.Type and Link.Type|lower != "project" %}
+									<abbr title="Class Project: {{ Link.Type }}">
+										*
+									</abbr>
+								{% endif %}
 							{% else %}
 								{{ Link.Title }}
 							{% endif %}
