@@ -2,7 +2,7 @@
 
 Date: 2007/09/01
 
-Authors: [Marcus Wendt](http://field.io), [Vera-Maria Glahn](http://field.io)
+Authors: [Vera-Maria Glahn](http://field.io), [Marcus Wendt](http://field.io)
 
 Keywords: Installation, motion, interactive, tracking, soundtoy, playful
 
