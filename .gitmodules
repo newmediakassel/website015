@@ -1,3 +1,0 @@
-[submodule "libs/Pocomd"]
-	path = libs/Pocomd
-	url = https://github.com/joernroeder/poco.md

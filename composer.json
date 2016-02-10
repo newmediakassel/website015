@@ -1,12 +1,12 @@
 {
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/joernroeder/pocomd"
+    }],
     "require": {
         "mikecao/flight": "^1.2",
-        "twig/twig": "^1.23"
-    },
-    "autoload": {
-        "psr-4": {
-             "joernroeder\\Pocomd\\": "./libs/Pocomd/src/"
-         }
+        "twig/twig": "^1.23",
+        "joernroeder/pocomd": "dev-master"
     },
     "config": {
         "vendor-dir": "./vendor"
