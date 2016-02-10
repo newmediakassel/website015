@@ -1,17 +1,12 @@
 {
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/joernroeder/pocomd"
+    }],
     "require": {
         "mikecao/flight": "^1.2",
         "twig/twig": "^1.23",
-        "michelf/php-markdown": "^1.6",
-        "gregwar/image": "^2.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "5.1.*"
-    },
-    "autoload": {
-        "psr-0": {
-             "joernroeder": "./libs/"
-         }
+        "joernroeder/pocomd": "dev-master"
     },
     "config": {
         "vendor-dir": "./vendor"

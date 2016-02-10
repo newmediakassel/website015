@@ -1,5 +1,11 @@
 # Surfsession
 
+Date: 2014/11/01
+Type: Workshop
+
+---
+---
+
 ## mit !Mediengruppe Bitnik
 
 ![](surfsession.jpg)

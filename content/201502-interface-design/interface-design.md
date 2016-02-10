@@ -1,5 +1,11 @@
 # Jedes Display braucht einen Interface Designer!
 
+Date: 2015/02/01
+Type: Workshop
+
+---
+---
+
 ## Workshop mit Christian Klotz
 
 ![](interface-design.jpg)

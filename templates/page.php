@@ -9,17 +9,12 @@
 			<p>
 				<time datetime="{{ DateTime }}">{{ Date }}</time>
 				
-				{% if KindOf %}
-					// {{ KindOf|raw }}
-				{% endif %}
-				
-				{% if Date %}
-					{% if Authors %}
-						// 
-					{% endif %}
+				{% if Type and Type|lower != "project" %}
+					// {{ Type }}
 				{% endif %}
 
 				{% if Authors %}
+					// 
 					{% for Author in Authors %}
 						{% if false == loop.first %} &middot; {% endif %}
 						{% if Author.Url %}

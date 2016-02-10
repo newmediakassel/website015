@@ -1,5 +1,11 @@
 # SHIMURAbros
 
+Date: 2015/06/01
+Type: Workshop
+
+---
+---
+
 ## Workshop & Talk
 
 ![](shimurabros.jpg)

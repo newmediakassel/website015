@@ -1,5 +1,7 @@
 # Wolfenstein.HTML5 Game Modding
 
+Date: 2015/05/01
+Type: Workshop
 MaxWidth: 610px
 
 ---
