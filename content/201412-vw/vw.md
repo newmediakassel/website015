@@ -2,7 +2,7 @@
 
 Date: 2014/12/01
 
-Authors: Rene Wagner
+Authors: [Rene Wagner](http://rene-wagner.tumblr.com)
 
 ---
 ---
