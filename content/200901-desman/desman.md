@@ -9,6 +9,8 @@ MaxWidth: 640px
 ---
 ---
 
+![](desman.jpg)
+
 A small Game with a little twist, instead of smashing buttons you have to scream at the player.
 You controll a little Desman who is chased by a water rat. Grab your microphone and <a title="Desman" href="http://www.kongregate.com/games/hurimuri/desman" target="_blank">PLAY</a> the Game.
 
