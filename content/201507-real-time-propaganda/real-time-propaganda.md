@@ -2,7 +2,7 @@
 
 Date: 2015/07/15
 
-Authors: [Mike Huntemann](http://www.mikehuntemann.de), [Jörn Röder](http://www.joernroeder.de)
+Authors: [Mike Huntemann](http://www.mikehuntemann.de)
 
 Keywords: real, time, propaganda, youtube, nsa, ebola, germanwings, charlie hebdo, mh370, media, mike huntemann, jörn röder
 
@@ -23,5 +23,5 @@ Durch die asymmetrische Verteilung der Monitor-Lautsprecher-Paare in der mehrkan
 
 Ausgestellt am Rundgang 2015, Kunsthochschule Kassel  
 Gewinner des Rundgangspreis 2015 (SV SparkassenVersicherung)  
-Künstlerische Beratung durch Jörn Röder und Gastprofessor Hans Bernhard
+Künstlerische Beratung durch [Jörn Röder](http://www.joernroeder.de) und Gastprofessor [Hans Bernhard](http://ubermorgen.com)
  
