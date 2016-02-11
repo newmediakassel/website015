@@ -1,4 +1,4 @@
-# Project Template
+# The Lightness of Being
 
 Date: 2016/01/25
 
