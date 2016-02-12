@@ -9,6 +9,7 @@
         "joernroeder/pocomd": "dev-master"
     },
     "config": {
-        "vendor-dir": "./vendor"
+        "vendor-dir": "./vendor",
+        "preferred-install": "dist"
     }
 }
