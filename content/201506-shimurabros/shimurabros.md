@@ -1,12 +1,13 @@
 # SHIMURAbros
 
 Date: 2015/06/01
+
+Authors: [shimurabros.com](http://www.shimurabros.com)
+
 Type: Workshop
 
 ---
 ---
-
-## Workshop & Talk
 
 ![](shimurabros.jpg)
 

@@ -1,13 +1,15 @@
 # Wolfenstein.HTML5 Game Modding
 
 Date: 2015/05/01
+
+Authors: [JODI](http://jodi.org)
+
 Type: Workshop
+
 MaxWidth: 610px
 
 ---
 ---
-
-## Workshop with JODI
 
 ![](wolfenstein-html5-game-modding.jpg)
 
@@ -25,5 +27,5 @@ ___JODI__ is a collective of two internet artists: Joan and Dirk. Since the mid-
 
 ### Read More
 
-- [joid.org](http://joid.org)
+- [jodi.org](http://jodi.org)
 - [wikipedia.org/wiki/Jodi](http://en.wikipedia.org/wiki/Jodi)
