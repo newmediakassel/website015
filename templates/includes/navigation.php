@@ -1,5 +1,27 @@
 <header id="top">
 	<style>
+		a {
+			text-decoration: underline;
+			color: purple;
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+		a:visited {
+			color: blue;
+		}
+
+		header a {
+			text-decoration: none;
+		}
+
+		header a:hover,
+		header a:focus {
+			text-decoration: underline;
+		}
+
 		#top nav ul {
 			list-style: none;
 			padding: 0;
@@ -33,6 +55,8 @@
 
 		#top nav ul li abbr {
 			cursor: help;
+			font-style: normal;
+			font-family: monospace;
 		}
 
 		/* year separator */
@@ -68,9 +92,9 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 			</ul>
 
 			<ul>
-				<li><a href="http://newsletter.newmediakassel.com">Subscribe to our Newsletter</a></li>
-				<li><a href="http://calendar.newmediakassel.com">See our Events in the Calendar</a></li>
-				<li><a href="https://twitter.com/nmkhk">Follow us on Twitter</a></li>
+				<li><a href="http://newsletter.newmediakassel.com" target="_blank">Subscribe to our Newsletter</a></li>
+				<li><a href="http://calendar.newmediakassel.com" target="_blank">See our Events in the Calendar</a></li>
+				<li><a href="https://twitter.com/nmkhk" target="_blank">Follow us on Twitter</a></li>
 			</ul>
 
 			<ul>
