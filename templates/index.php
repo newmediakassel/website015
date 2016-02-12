@@ -30,6 +30,10 @@
 		#main iframe {
 			max-width: 100%;
 		}
+
+		#main td {
+			padding: 0.1em 0.5em;
+		}
 		
 		#main > div {
 			margin: 0 auto;
