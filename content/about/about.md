@@ -32,14 +32,40 @@ _– Judith Butler_
 
 ## Teaching
 
-- [Kim Asendorf](http://kimasendorf.com) - _Artistic Associate_
-- [Aram Bartholl](http://datenform.de) – _Guest Professor_
-- [Joel Baumann](http://joelbaumann.com)  – _Professor_
-- [Hans Bernhard](http://ubermorgen.com) – _Guest Professor_
-- [Martin Böttger](http://www.tsaworks.com/) – _Artistic Associate_
-- [Darsha Hewitt](http://darsha.org) – _Guest Professor_
-- [Jörn Röder](http://joernroeder.de) – _Artistic Associate_
-- [Olaf Val](http://olafval.de) - _Artistic Associate_
+<table border>
+<tr>
+	<td><a href="http://kimasendorf.com">Kim Asendorf</a></td>
+	<td><em>Artistic Associate</em></td>
+</tr>
+<tr>
+	<td><a href="http://datenform.de">Aram Bartholl</a></td>
+	<td><em>Guest Professor</em></td>
+</tr>
+<tr>
+	<td><a href="http://joelbaumann.com">Joel Baumann</a></td>
+	<td><em>Professor</em></td>
+</tr>
+<tr>
+	<td><a href="http://ubermorgen.com">Hans Bernhard</a></td>
+	<td><em>Guest Professor</em></td>
+</tr>
+<tr>
+	<td><a href="http://www.tsaworks.com">Martin Böttger</a></td>
+	<td><em>Artistic Associate</em></td>
+</tr>
+<tr>
+	<td><a href="http://darsha.org">Darsha Hewitt</a></td>
+	<td><em>Guest Professor</em></td>
+</tr>
+<tr>
+	<td><a href="http://joernroeder.de">Jörn Röder</a></td>
+	<td><em>Artistic Associate</em></td>
+</tr>
+<tr>
+	<td><a href="http://olafval.de">Olaf Val</a></td>
+	<td><em>Artistic Associate</em></td>
+</tr>
+</table>
 
 ## Students
 
