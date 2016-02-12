@@ -21,7 +21,7 @@ Durch die asymmetrische Verteilung der Monitor-Lautsprecher-Paare in der mehrkan
 
 ---
 
-Ausgestellt am Rundgang 2015, Kunsthochschule Kassel  
+Ausgestellt am Rundgang 2015, [Kunsthochschule Kassel](http://kunsthochschulekassel.de)  
 Gewinner des Rundgangspreis 2015 (SV SparkassenVersicherung)  
 Künstlerische Beratung durch [Jörn Röder](http://www.joernroeder.de) und Gastprofessor [Hans Bernhard](http://ubermorgen.com)
  
