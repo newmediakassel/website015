@@ -86,8 +86,8 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 								</a>
 
 								{% if Link.Type and Link.Type|lower != "project" %}
-									<abbr title="Class Project: {{ Link.Type }}">
-										*
+									<abbr title="{{ Link.Type }}">
+										[{{ Link.Type|first|upper }}]
 									</abbr>
 								{% endif %}
 							{% else %}
