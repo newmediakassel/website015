@@ -2,8 +2,7 @@
 
 Date: 2016/01/25
 
-Authors: [Mike Huntemann](http://www.mikehuntemann.de), [Jörn Röder](http://www.joernroeder.de)
-
+Authors: [Mike Huntemann](http://www.mikehuntemann.de)
 Keywords: leichtigkeit, des seins, lightness, of being, mike, huntemann, jörn, röder, bamberg, bamberger, kurzfilmtage
 
 ---
