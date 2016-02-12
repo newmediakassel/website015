@@ -92,9 +92,9 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 			</ul>
 
 			<ul>
-				<li><a href="http://newsletter.newmediakassel.com">Subscribe to our Newsletter</a></li>
-				<li><a href="http://calendar.newmediakassel.com">See our Events in the Calendar</a></li>
-				<li><a href="https://twitter.com/nmkhk">Follow us on Twitter</a></li>
+				<li><a href="http://newsletter.newmediakassel.com" target="_blank">Subscribe to our Newsletter</a></li>
+				<li><a href="http://calendar.newmediakassel.com" target="_blank">See our Events in the Calendar</a></li>
+				<li><a href="https://twitter.com/nmkhk" target="_blank">Follow us on Twitter</a></li>
 			</ul>
 
 			<ul>

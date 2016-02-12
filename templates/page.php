@@ -50,9 +50,18 @@
 {% block js %}
 <script src="/js/fitvids.min.js" type="text/javascript"></script>
 <script type="text/javascript">
+	// http://stackoverflow.com/a/13147238/520544
+	function externalLinks() {
+		for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+			var b = c[a];
+			b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank");
+		}
+	};
+
 	document.addEventListener("DOMContentLoaded", function(event) { 
 		fitvids('#main');
  		document.getElementById('main').scrollIntoView();
+ 		externalLinks();
 	});
 </script>
 {% endblock %}
