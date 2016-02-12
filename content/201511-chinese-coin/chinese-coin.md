@@ -8,8 +8,8 @@ Keywords: chinese, coin, ubermorgen, ubermorgen.com, mike huntemann,
 
 ---
 ---
+<iframe src="https://player.vimeo.com/video/145141943?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![](chinese-coin.jpg)
 
 UBERMORGEN
 
@@ -24,5 +24,4 @@ Video & Sounddesign: Mike Huntemann
 Commissioned by NEoN (North East of North), 2015  
 Optimized for Dolby Surround 5.1  
 
-
-<iframe src="https://player.vimeo.com/video/145141943?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](chinese-coin.jpg)
