@@ -32,37 +32,39 @@ _– Judith Butler_
 
 ## Teaching
 
-- [Kim Asendorf](http://kimasendorf.com) - _Artistic Associate SS2012-SS2013_
-- [Aram Bartholl](http://datenform.de) – _Guest Professor SW2015_
+- [Kim Asendorf](http://kimasendorf.com) - _Artistic Associate_
+- [Aram Bartholl](http://datenform.de) – _Guest Professor_
 - [Joel Baumann](http://joelbaumann.com)  – _Professor_
-- [Hans Bernhard](http://ubermorgen.com) – _Guest Professor WS2013-SS2015_
-- [Martin Böttger](http://www.tsaworks.com/) – _Artistic Associate XXX-SS2014_
-- [Darsha Hewitt](http://darsha.org) – _Guest Professor WS2015-SS2016_
+- [Hans Bernhard](http://ubermorgen.com) – _Guest Professor_
+- [Martin Böttger](http://www.tsaworks.com/) – _Artistic Associate_
+- [Darsha Hewitt](http://darsha.org) – _Guest Professor_
 - [Jörn Röder](http://joernroeder.de) – _Artistic Associate_
-- [Olaf Val](http://olafval.de) - _Artistic Associate XXX-XXX_
+- [Olaf Val](http://olafval.de) - _Artistic Associate_
 
 ## Students
 
 - Hannes Drescher
 - Jonas Escher
 - Nicole Brauer
-- Chris
-- Echo
+- Christoph Schnerr
+- Echo Canluo
+- Sevda Güler
 - Jan Mensen
-- Amadeus
-- Elko
-- Mario
-- Julia
+- Amadeus Werner
+- Elko Braas
+- Julia Bender
 - Jan Heise
-- [Mike Huntemann](http://mikehuntemann.de)
-- Jakob
+- [Jakob Höfle](http://jacobhoefle.tumblr.com/)
 - [Stefan Endres](http://stefanendres.com)
 - [Sebastian Haydt](http://derhintergrund.com)
+- [Mike Huntemann](http://mikehuntemann.de)
+- Josephin	Kollmer
 - Luise Matthes
 - [Jasper Meiners](http://jaspermeiners.com)
 - Isabel Paehr
 - Flaut M. Rauch
 - [Erik Schäfer](http://fromerikwithlove.com)
+- Mario Strahl
 - [Ippolit Vikhorev](http://ippolit.biz)
 - [Rene Wagner](http://rene-wagner.tumblr.com)
 - [Fritz Laszlo Weber](http://fritz-weber.de)
