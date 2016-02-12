@@ -58,13 +58,13 @@ _– Judith Butler_
 - [Stefan Endres](http://stefanendres.com)
 - [Sebastian Haydt](http://derhintergrund.com)
 - [Mike Huntemann](http://mikehuntemann.de)
-- Josephin	Kollmer
+- Josephin Kollmer
 - Luise Matthes
 - [Jasper Meiners](http://jaspermeiners.com)
 - Isabel Paehr
 - Flaut M. Rauch
 - [Erik Schäfer](http://fromerikwithlove.com)
-- Mario Strahl
+- [Mario Strahl](http://mariostrahl.de)
 - [Ippolit Vikhorev](http://ippolit.biz)
 - [Rene Wagner](http://rene-wagner.tumblr.com)
 - [Fritz Laszlo Weber](http://fritz-weber.de)
