@@ -79,7 +79,7 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 					{% for Link in Navigation %}
 						<li{% if Link.Type %} class="{{ Link.Type|lower|e('html_attr') }}"{% endif %}>
 							{% if Link.IsDate %}
-								~ <strong class="date">{{ Link.Title }}</strong> ~
+								~ <strong class="date" id="{{ Link.Title }}">{{ Link.Title }}</strong> ~
 							{% elseif Link.Url %}
 								<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
 									{{ Link.Title }}
