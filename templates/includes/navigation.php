@@ -1,5 +1,27 @@
 <header id="top">
 	<style>
+		a {
+			text-decoration: underline;
+			color: purple;
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+		a:visited {
+			color: blue;
+		}
+
+		header a {
+			text-decoration: none;
+		}
+
+		header a:hover,
+		header a:focus {
+			text-decoration: underline;
+		}
+
 		#top nav ul {
 			list-style: none;
 			padding: 0;
@@ -33,6 +55,8 @@
 
 		#top nav ul li abbr {
 			cursor: help;
+			font-style: normal;
+			font-family: monospace;
 		}
 
 		/* year separator */
