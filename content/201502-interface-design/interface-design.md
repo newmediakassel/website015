@@ -1,12 +1,13 @@
 # Jedes Display braucht einen Interface Designer!
 
 Date: 2015/02/01
+
+Authors: [Christian Klotz](http://christianklotz.co.uk)
+
 Type: Workshop
 
 ---
 ---
-
-## Workshop mit Christian Klotz
 
 ![](interface-design.jpg)
 

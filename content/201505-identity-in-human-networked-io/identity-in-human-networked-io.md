@@ -1,14 +1,15 @@
 # Identity in Human Networked IO
 
 Date: 2015/05/01
+
+Authors: Michi Zeltner
+
 Type: Workshop
 
 ---
 ---
 
 ## Verschlüsselung, Anonymität, Identität, Community, Pseudonyme
-
-### Workshop mit Michi Zeltner
 
 ![](identity-in-human-networked-io.jpg)
 

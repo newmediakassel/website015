@@ -1,12 +1,15 @@
 # Surfsession
 
 Date: 2014/11/01
+
+Authors: [!Mediengruppe Bitnik](http://bitnik.org)
+
 Type: Workshop
 
 ---
 ---
 
-## mit !Mediengruppe Bitnik
+## mit 
 
 ![](surfsession.jpg)
 
