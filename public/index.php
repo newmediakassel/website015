@@ -176,6 +176,13 @@ Flight::route('/@name', function ($name) {
 });
 
 
+// ! --- ROUTE: 404 - Not Found -----------------
+
+Flight::map('notFound', function() {
+	return Flight::view()->display('404.php');
+});
+
+
 // ! --- Kick things off! -----------------------
 
 Flight::start();
