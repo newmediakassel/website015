@@ -63,6 +63,7 @@
 		#top nav ul li .date {
 			display: inline-block;
 			margin-top: 1em;
+			font-family: monospace;
 		}
 	</style>
 	<center>
