@@ -31,6 +31,23 @@
 			max-width: 100%;
 		}
 
+		#main header a {
+                        text-decoration: none;
+                }
+
+                #main header a:hover,
+                #main header a:focus {
+                        text-decoration: underline;
+                }
+
+		#main header h1 {
+			margin-bottom: 0;
+		}
+
+		#main header p {
+			font-family: monospace;
+		}
+
 		#main td {
 			padding: 0.1em 0.5em;
 		}
