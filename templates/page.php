@@ -66,6 +66,35 @@
 </script>
 {% endblock %}
 
-{% block json %}
-	<script id="project-data" type="application/json">{{ JSON }}</script>
+{% block jsonld %}
+	<script type='application/ld+json'>
+		{
+			"@context": "http://schema.org/",
+			"@Type": "CreativeWork",
+			{% if DateTime %}
+			"dateCreated": "{{ DateTime }}",
+			{% endif %}
+			"dateModified": {{ LastModified }},
+			{% if Authors %}
+			"url": "{{ CurrentUrl }}",
+			"author": [
+				{% for Author in Authors %}
+					{
+						"@context": "http://schema.org/",
+						"@type": "Person",
+						{% if Author.Url %}
+						"name": "{{ Author.Title }}",
+						"url": "{{ Author.Url }}"
+						{% else %}
+						"name": "{{ Author }}",
+						{% endif %}
+					}
+					{% if false == loop.last %},{% endif %}
+				{% endfor %}
+			],
+			{% endif %}
+			"name": "{{ Title }}",
+			"description": "{{ Description }}"
+		}
+	</script>
 {% endblock %}
