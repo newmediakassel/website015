@@ -16,4 +16,4 @@ _Hong Kong love and peace_ is a video installation about the Hong Kong occupy Ce
 The video collected the fragments of reports from various media and internet. It combined videos of violence with conflict with the CS online games.We always get a variety of  informations from the media reports. But it is difficult that we try to distinguish the fact from the information we received.  
 Whether it is politics or games, are we involved in it?
 
-![](image.png)
+![](image.jpg)
