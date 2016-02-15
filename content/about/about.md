@@ -73,7 +73,7 @@ _– Judith Butler_
 - Jonas Escher
 - Nicole Brauer
 - Christoph Schnerr
-- Echo Canluo
+- Echo Can Luo
 - Sevda Güler
 - Jan Mensen
 - Amadeus Werner
