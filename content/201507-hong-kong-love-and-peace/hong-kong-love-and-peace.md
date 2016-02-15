@@ -9,7 +9,7 @@ Keywords: Hong Kong, Occupy Central with Love and peace
 ---
 ---
 
-<iframe src="https://vimeo.com/155247531" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/155247531?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 _Hong Kong love and peace_ is a video installation about the Hong Kong occupy Central with Love and peace(OCLP). OCLP, an advocacy group for universal suffrage in Hong Kong in 2014 using nonviolent civil disobedience.
 
