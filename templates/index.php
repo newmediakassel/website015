@@ -79,6 +79,8 @@
 			margin: 0 auto;
 		}
 	</style>
+
+	{% block jsonld %}{% endblock %}
 </head>
 <body>
 	{{ include('includes/navigation.php') }}
