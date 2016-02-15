@@ -71,8 +71,12 @@
 		{
 			"@context": "http://schema.org/",
 			"@Type": "CreativeWork",
-			"dateCreated": {{ DateTime }},
+			{% if DateTime %}
+			"dateCreated": "{{ DateTime }}",
+			{% endif %}
+			"dateModified": {{ LastModified }},
 			{% if Authors %}
+			"url": "{{ CurrentUrl }}",
 			"author": [
 				{% for Author in Authors %}
 					{
