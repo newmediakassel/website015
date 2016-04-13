@@ -2,8 +2,7 @@
 
 Date: 2015/09/07
 
-Authors: [Isabel Paehr](http://www.isabelpaehr.de)
-[Jasper Meiners](http://www.jaspermeiners.de)
+Authors: [Isabel Paehr](http://www.isabelpaehr.de), [Jasper Meiners](http://www.jaspermeiners.de)
 
 ---
 ---
