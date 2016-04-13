@@ -199,16 +199,16 @@
         },
         {
             "name": "mikecao/flight",
-            "version": "v1.2.19",
+            "version": "v1.2.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mikecao/flight.git",
-                "reference": "b96aaa79677635d2d81a0f1fda357903a5334918"
+                "reference": "f3fa0513fe2e1994923793b85c593b7f2b644001"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mikecao/flight/zipball/b96aaa79677635d2d81a0f1fda357903a5334918",
-                "reference": "b96aaa79677635d2d81a0f1fda357903a5334918",
+                "url": "https://api.github.com/repos/mikecao/flight/zipball/f3fa0513fe2e1994923793b85c593b7f2b644001",
+                "reference": "f3fa0513fe2e1994923793b85c593b7f2b644001",
                 "shasum": ""
             },
             "require": {
@@ -238,7 +238,7 @@
             ],
             "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.",
             "homepage": "http://flightphp.com",
-            "time": "2016-02-01 06:34:17"
+            "time": "2016-02-29 08:38:10"
         },
         {
             "name": "twig/twig",
