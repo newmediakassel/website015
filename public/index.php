@@ -120,7 +120,15 @@ $twigConfig = array(
 );
 Flight::register('view', 'Twig_Environment', array($twigLoader, $twigConfig), function($twig) {
 	$twig->addExtension(new Twig_Extension_Debug()); // Add the debug extension
-	$twig->addGlobal('BaseUrl', Flight::get('flight.base_url'));
+	
+	$currentUrl = sprintf(
+		"%s://%s%s",
+		isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
+		$_SERVER['SERVER_NAME'],
+		$_SERVER['REQUEST_URI']
+	);
+
+	$twig->addGlobal('CurrentUrl', $currentUrl);
 });
 
 /**
@@ -173,6 +181,14 @@ Flight::route('/sitemap.xml', function () {
 
 Flight::route('/@name', function ($name) {
 	return Flight::get('config')->renderPage($name);
+});
+
+
+// ! --- ROUTE: 404 - Not Found -----------------
+
+Flight::map('notFound', function() {
+	Flight::view()->display('404.php', Flight::get('config')->getNavigation());
+	Flight::stop(404);
 });
 
 

@@ -104,12 +104,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/joernroeder/pocomd.git",
-                "reference": "3c7c526ae28a05825dc04467d7bb105032552669"
+                "reference": "489879b195cc588634bcb603508969fa2384059d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/joernroeder/pocomd/zipball/3c7c526ae28a05825dc04467d7bb105032552669",
-                "reference": "3c7c526ae28a05825dc04467d7bb105032552669",
+                "url": "https://api.github.com/repos/joernroeder/pocomd/zipball/489879b195cc588634bcb603508969fa2384059d",
+                "reference": "489879b195cc588634bcb603508969fa2384059d",
                 "shasum": ""
             },
             "require": {
@@ -144,7 +144,7 @@
                 "source": "https://github.com/joernroeder/pocomd/tree/master",
                 "issues": "https://github.com/joernroeder/pocomd/issues"
             },
-            "time": "2016-02-11 15:26:30"
+            "time": "2016-02-15 17:04:40"
         },
         {
             "name": "michelf/php-markdown",
