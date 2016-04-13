@@ -73,7 +73,7 @@ _– Judith Butler_
 - Jonas Escher
 - Nicole Brauer
 - Christoph Schnerr
-- Echo Can Luo
+- [Echo Can Luo](https://vimeo.com/user8116607)
 - Sevda Güler
 - Jan Mensen
 - Amadeus Werner

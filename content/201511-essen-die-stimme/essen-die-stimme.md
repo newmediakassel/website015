@@ -2,7 +2,7 @@
 
 Date: 2015/11/20
 
-Authors: Echo Can Luo
+Authors: [Echo Can Luo](https://vimeo.com/user8116607)
 
 Keywords: video, sound, Atmosphere, Leib
 
