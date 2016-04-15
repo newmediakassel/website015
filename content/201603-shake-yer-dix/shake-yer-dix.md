@@ -1,8 +1,8 @@
-# Project Template
+# Shake Yer Dix
 
 Date: 2016/03/31
 
-Authors: Nicole Brauer, [Nicole](https://www.google.com/#safe=off&q=nicole+brauer)
+Authors: [Nicole Brauer](https://www.google.com/#safe=off&q=nicole+brauer)
 
 Keywords: dix, tits, sexy, shaking, game, games, playing, bodies, queer, music, hot, action, pov, lesbian, threesome, gay, porn, toys
 
