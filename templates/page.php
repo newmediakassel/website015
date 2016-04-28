@@ -8,13 +8,13 @@
 			<h1>{{ Title }}</h1>
 			<p>
 				<time datetime="{{ DateTime }}">{{ Date }}</time>
-				
+
 				{% if Type and Type|lower != "project" %}
 					// {{ Type }}
 				{% endif %}
 
 				{% if Authors %}
-					// 
+					//
 					{% for Author in Authors %}
 						{% if false == loop.first %} &middot; {% endif %}
 						{% if Author.Url %}
@@ -26,7 +26,7 @@
 				{% endif %}
 
 				{% if For %}
-					for 
+					for
 					{% for f in For %}
 						{% if false == loop.first %}, {% endif %}
 							{% if f.Url %}
@@ -58,7 +58,7 @@
 		}
 	};
 
-	document.addEventListener("DOMContentLoaded", function(event) { 
+	document.addEventListener("DOMContentLoaded", function(event) {
 		fitvids('#main');
  		document.getElementById('main').scrollIntoView();
  		externalLinks();
@@ -70,7 +70,7 @@
 	<script type='application/ld+json'>
 		{
 			"@context": "http://schema.org/",
-			"@Type": "CreativeWork",
+			"@type": "CreativeWork", 
 			{% if DateTime %}
 			"dateCreated": "{{ DateTime }}",
 			{% endif %}
