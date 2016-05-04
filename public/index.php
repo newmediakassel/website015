@@ -51,13 +51,32 @@ class MyAppConfig extends Config {
 	}
 
 	public function updateNavigationItem(&$navItem, $page) {
-		$additionalKeys = array('Type', 'Date');
+		$additionalKeys = array('Type', 'Date', 'ShowInTicker');
 
 		foreach ($additionalKeys as $key) {
 			if ($val = $page->get($key)) {
 				$navItem[$key] = $val;
 			}
 		}
+	}
+
+  // Iterate through the navigation items and add <ticker> items to the template.
+	public function updateTemplateData(&$templateData) {
+		$nav = $templateData['Navigation'];
+		$tickerItems = array();
+
+		foreach ($nav as $item) {
+			if(isset($item['ShowInTicker']) && $item['ShowInTicker']) {
+				$tickerItems[] = $item;
+			}
+		}
+
+		$templateData = array_merge(
+				$templateData,
+				array(
+					'TickerItems' => $tickerItems
+				)
+		);
 	}
 
 	// override factories
