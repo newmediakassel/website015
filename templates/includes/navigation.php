@@ -65,6 +65,24 @@
 			margin-top: 1em;
 			font-family: monospace;
 		}
+
+		/* ticker */
+		marquee {
+			font-family: monospace;
+			width: 50%;
+			min-width: 500px;
+			margin: 1rem 0;
+		}
+
+		marquee ul,
+		marquee li {
+			display: inline;
+			list-style: none;
+		}
+
+		marquee a {
+			font-weight: bold;
+		}
 	</style>
 	<center>
 		<pre>
@@ -100,7 +118,28 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 
 			<ul>
 				{% block navigation %}
-				
+					{% if TickerItems %}
+						<li>
+							<marquee onmouseover="this.stop();" onmouseout="this.start();">
+								+ + + <strong>CURRENT / UPCOMING EVENTS</strong> +++ <ul>
+									{% for Link in TickerItems %}
+										<li>
+											{% if Link.Url %}
+												<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
+													{{ Link.Title|trim }}
+												</a>
+											{% else %}
+												{{ Link.Title|trim }}
+											{% endif %}
+
+										{% if not loop.last %} +++ {% endif %}
+										</li>
+									{% endfor %}
+								</ul> + + +
+							</marquee>
+						</li>
+					{% endif %}
+
 					{% for Link in Navigation %}
 						<li{% if Link.Type %} class="{% if Link.Type is iterable %}{% for t in Link.Type %}{{ t|lower|e('html_attr') }}{% endfor %}{% else %}{{ t|lower|e('html_attr') }}{% endif %}"{% endif %}>
 							{% if Link.IsDate %}
