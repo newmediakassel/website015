@@ -102,7 +102,7 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 				{% block navigation %}
 				
 					{% for Link in Navigation %}
-						<li{% if Link.Type %} class="{{ Link.Type|lower|e('html_attr') }}"{% endif %}>
+						<li{% if Link.Type %} class="{% if Link.Type is iterable %}{% for t in Link.Type %}{{ t|lower|e('html_attr') }}{% endfor %}{% else %}{{ t|lower|e('html_attr') }}{% endif %}"{% endif %}>
 							{% if Link.IsDate %}
 								~ <strong class="date" id="{{ Link.Title }}">{{ Link.Title }}</strong> ~
 							{% elseif Link.Url %}
@@ -110,10 +110,18 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 									{{ Link.Title }}
 								</a>
 
-								{% if Link.Type and Link.Type|lower != "project" %}
-									<abbr title="{{ Link.Type }}">
-										[{{ Link.Type|first|upper }}]
-									</abbr>
+								{% if Link.Type is iterable %}
+									[
+									{% for t in Link.Type|sort %}
+										<abbr title="{{ t }}">{{ t|first|upper }}</abbr>
+									{% endfor %}
+									]
+								{% else %}
+									{% if Link.Type and Link.Type|lower != "project" %}
+										<abbr title="{{ Link.Type }}">
+											[{{ Link.Type|first|upper }}]
+										</abbr>
+									{% endif %}
 								{% endif %}
 							{% else %}
 								{{ Link.Title }}
