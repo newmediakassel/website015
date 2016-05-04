@@ -65,6 +65,24 @@
 			margin-top: 1em;
 			font-family: monospace;
 		}
+
+		/* ticker */
+		marquee {
+			font-family: monospace;
+			width: 50%;
+			min-width: 500px;
+			margin: 1rem 0;
+		}
+
+		marquee ul,
+		marquee li {
+			display: inline;
+			list-style: none;
+		}
+
+		marquee a {
+			font-weight: bold;
+		}
 	</style>
 	<center>
 		<pre>
@@ -100,23 +118,52 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 
 			<ul>
 				{% block navigation %}
-				
+					{% if TickerItems %}
+						<li>
+							<marquee onmouseover="this.stop();" onmouseout="this.start();">
+								+ + + <strong>CURRENT / UPCOMING EVENTS</strong> +++ <ul>
+									{% for Link in TickerItems %}
+										<li>
+											{% if Link.Url %}
+												<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
+													{{ Link.Title|trim }}
+												</a>
+											{% else %}
+												{{ Link.Title|trim }}
+											{% endif %}
+
+										{% if not loop.last %} +++ {% endif %}
+										</li>
+									{% endfor %}
+								</ul> + + +
+							</marquee>
+						</li>
+					{% endif %}
+
 					{% for Link in Navigation %}
-						<li{% if Link.Type %} class="{{ Link.Type|lower|e('html_attr') }}"{% endif %}>
+						<li{% if Link.Type %} class="{% if Link.Type is iterable %}{% for t in Link.Type %}{{ t|lower|e('html_attr') }}{% endfor %}{% else %}{{ t|lower|e('html_attr') }}{% endif %}"{% endif %}>
 							{% if Link.IsDate %}
 								~ <strong class="date" id="{{ Link.Title }}">{{ Link.Title }}</strong> ~
 							{% elseif Link.Url %}
 								<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
-									{{ Link.Title }}
+									{{ Link.Title|trim }}
 								</a>
 
-								{% if Link.Type and Link.Type|lower != "project" %}
-									<abbr title="{{ Link.Type }}">
-										[{{ Link.Type|first|upper }}]
-									</abbr>
+								{% if Link.Type is iterable %}
+									[
+									{% for t in Link.Type|sort %}
+										<abbr title="{{ t }}">{{ t|first|upper }}</abbr>
+									{% endfor %}
+									]
+								{% else %}
+									{% if Link.Type and Link.Type|lower != "project" %}
+										<abbr title="{{ Link.Type }}">
+											[{{ Link.Type|first|upper }}]
+										</abbr>
+									{% endif %}
 								{% endif %}
 							{% else %}
-								{{ Link.Title }}
+								{{ Link.Title|trim }}
 							{% endif %}
 						</li>
 					{% endfor %}

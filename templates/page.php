@@ -8,9 +8,13 @@
 			<h1>{{ Title }}</h1>
 			<p>
 				<time datetime="{{ DateTime }}">{{ Date }}</time>
-
-				{% if Type and Type|lower != "project" %}
-					// {{ Type }}
+				{% if Type is iterable %}
+					{% set t = Type|sort|join(', ') %}
+				{% else %}
+					{% set t = Type %}
+				{% endif %}
+				{% if t and t|lower != "project" %}
+					// {{ t }}
 				{% endif %}
 
 				{% if Authors %}
@@ -70,7 +74,7 @@
 	<script type='application/ld+json'>
 		{
 			"@context": "http://schema.org/",
-			"@type": "CreativeWork", 
+			"@type": "CreativeWork",
 			{% if DateTime %}
 			"dateCreated": "{{ DateTime }}",
 			{% endif %}
