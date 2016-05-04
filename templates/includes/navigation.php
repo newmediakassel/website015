@@ -107,7 +107,7 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 								~ <strong class="date" id="{{ Link.Title }}">{{ Link.Title }}</strong> ~
 							{% elseif Link.Url %}
 								<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
-									{{ Link.Title }}
+									{{ Link.Title|trim }}
 								</a>
 
 								{% if Link.Type is iterable %}
@@ -124,7 +124,7 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 									{% endif %}
 								{% endif %}
 							{% else %}
-								{{ Link.Title }}
+								{{ Link.Title|trim }}
 							{% endif %}
 						</li>
 					{% endfor %}
