@@ -141,7 +141,7 @@ Flight::before('start', function(&$params, &$output) {
 });
 
 
-// ! --- ROUTE: About ---------------------------
+// ! --- ROUTE: Index ---------------------------
 
 Flight::route('/', function() {
 	return Flight::view()->display('index.php', Flight::get('config')->getNavigation());
