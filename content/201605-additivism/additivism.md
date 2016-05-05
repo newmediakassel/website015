@@ -35,12 +35,12 @@ During the workshop Allahyari and Rourke explain how 3D fabrication can be thoug
 They explore the promises of Additivist technologies through the metaphors of crude oil, plastic and desertification, and talk about the Anthropocene and Chthulucene; about forms of embodiment, alterity, and activism still waiting to be unleashed through acts of material creativity. #Additivism calls for artists, activists, designers, scientists, and critical engineers to accelerate the 3D printer and other Additivist technologies to their absolute limits and beyond, into the realm of the speculative, the provocative and the weird.
 
 To get into the Additivism mood, watch the Additivism Manifesto. 
-More information about Additivism can be found on www.additivism.org.
+More information about Additivism can be found on [www.additivism.org](http://www.additivism.org).
 
 
 ### Enrolment
 
-The workshop is open to students who are interested in alternative approachtes to theory-led forms of practice. Participants are ideally filled with fears and enthusiasm for the future. To apply please send a short motivation letter (5 sentences maximum) on why you would like to attend to darsha.hewitt@uni-weimar.de. The deadline for applications is 10 May 2016. Participants must attend the full 2 day programme! 
+The workshop is open to students who are interested in alternative approachtes to theory-led forms of practice. Participants are ideally filled with fears and enthusiasm for the future. To apply please send a short motivation letter (5 sentences maximum) on why you would like to attend to [darsha.hewitt@uni-weimar.de](mailto:darsha.hewitt@uni-weimar.de). The deadline for applications is 10 May 2016. Participants must attend the full 2 day programme! 
 
 ---
 
