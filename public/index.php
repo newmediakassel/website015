@@ -163,7 +163,7 @@ Flight::before('start', function(&$params, &$output) {
 // ! --- ROUTE: Index ---------------------------
 
 Flight::route('/', function() {
-	return Flight::view()->display('index.php', Flight::get('config')->getNavigation());
+	return Flight::view()->display('index.php', Flight::get('config')->getTemplateData());
 });
 
 // ! --- ROUTE: About ---------------------------
