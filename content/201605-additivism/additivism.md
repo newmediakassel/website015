@@ -4,7 +4,6 @@ Date: 2016/05/11
 Type: Lecture, Workshop
 Authors: [Morehshin Allahyari](http://www.morehshin.com/), [Daniel Rourke](http://machinemachine.net/)
 Keywords: Physial computing, DIY electronics, data interventions, public vs. private, open vs. closed systems, hacking, network scanning, mapping, cooperate surveillance, open source, goverment surveillance
-ShowInTicker: true
 
 ---
 ---
