@@ -27,7 +27,7 @@ Lauren will present her work in stereoscopic film and interactive 360° document
 
 ---
 
-## Workshop
+## Workshop: Photogrammetry for Virtual Reality
 
 - 09.06.16 // Day 1 // 10-16h
 - 10.06.16 // Day 2 // 10-16h
