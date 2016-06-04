@@ -27,10 +27,10 @@ Lauren will present her work in stereoscopic film and interactive 360° document
 
 ---
 
-## Workshop
+## Workshop: Photogrammetry for Virtual Reality
 
-- 09.06.16 // Day 1 // 10-16h
-- 10.06.16 // Day 2 // 10-16h
+- 09.06.16 // Day 1 // 11-16h
+- 10.06.16 // Day 2 // 11-16h
 
 This a two day workshop where students will produce photogrammetry assets and learn how to integrate them in a simple Unity project for export either as an application or as a 360° film. Students are also encouraged to bring their own projects to the workshop for consultation. This workshop is open to everyone - no previous experience is required.
 
