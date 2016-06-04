@@ -27,7 +27,7 @@ __Keywords:__
 ---
 
 ## [Lauren Moffatt](http://www.fact.co.uk/people/artists/lauren-moffatt.aspx) `[Australia/Germany]`
-### Oculus Reason // Experiencing Archives in Virtual Environments
+### Oculist Reason // Experiencing Archives in Virtual Environments
 
 - 9-10.6 / 11:00-16:00 / Workshop: Photogrammetrie for Oculus Rift / R311
 - 9.6 / 18:00-20:00 / Talk /  Papier Café
