@@ -4,7 +4,6 @@ Date: 2016/06/09
 Type: Lecture, Workshop
 Authors: [Lauren Moffatt](http://deptique.net/)
 Keywords: storytelling in 3D environments, video, game environments, animation, moving image, history of Cinema, immersive technologies, archives in digital environments
-ShowInTicker: true
 
 ---
 ---
