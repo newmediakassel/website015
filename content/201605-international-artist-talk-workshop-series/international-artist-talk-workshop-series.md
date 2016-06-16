@@ -39,12 +39,14 @@ storytelling in 3D environments, video, game environments, moving image, history
 
 ---
 
-## [Gijs Gieskes](http://www.fact.co.uk/people/artists/lauren-moffatt.aspx) `[Netherlands]`
+## [Gijs Gieskes](http://gieskes.nl/) `[Netherlands]`
 
-### Re-appropriating/Re-inventing consumer technology for Sound 
+### Dumpster Drum Machine
 
-- 22-23.06 / 11:00-17:00 / Workshop: Mechanical Sound Interfaces
-- 23.06 / 21:00-23:00 / Performance / Location to be announced
+- 22-23.06 / 11:00-17:00 / Workshop: Dumpster Drum Machine
+- 23.06 / 21:00-23:00 / NM GrillParty + Demos/Performances / R311
 
 __Keywords:__  
-Hybrid-systems, sound art, performance, hardware hacking, gameboy hacks, spinning photoelectronic acid machine, retro-computing, circuit-bending, diy electronics, inventive interfaces for VJ/DJ/Audio Production 
+Media Archeology, DIY electronics, Sound Art, Experimental Music, circuit design
+
+[More Infos](/dumpster-drum-machine)
