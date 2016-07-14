@@ -3,7 +3,6 @@
 Date: 2016/04/01
 Authors: [Jörn Röder](http://joernroeder.de)
 Type: Workshop
-ShowInTicker: true
 
 ---
 ---
