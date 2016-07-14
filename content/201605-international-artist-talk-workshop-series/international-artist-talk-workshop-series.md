@@ -2,7 +2,6 @@
 
 Date: 2016/05/01
 Type: Lecture, Workshop, Performance
-ShowInTicker: true
 
 ---
 ---

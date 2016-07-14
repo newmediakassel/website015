@@ -4,7 +4,6 @@ Date: 2016/06/22
 Type: Performance, Workshop
 Authors: [Gijs Gieskes](http://gieskes.nl/)
 Keywords: Media Archeology, DIY electronics, Sound Art, Experimental Music, circuit design
-ShowInTicker: true
 
 ---
 ---

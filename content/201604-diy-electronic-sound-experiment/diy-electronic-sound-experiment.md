@@ -4,7 +4,6 @@ Date: 2016/04/01
 Type: Workshop
 Authors: [Darsha Hewitt](http://darsha.org)
 Keywords: DIY electronics, hacking, synthesizers, reverse engineering, soldering, circuit boards, experimental sound, sound synthesis
-ShowInTicker: true
 
 ---
 ---
