@@ -33,4 +33,5 @@ If you would like to attend please send a short motivation letter (4 sentences m
 [http://www.kunsthauslangenthal.ch/tl_files/medien/kh_lauren_huret_lulu_download.pdf](http://www.kunsthauslangenthal.ch/tl_files/medien/kh_lauren_huret_lulu_download.pdf)
 - Explore the Erik Davis’ website if you don’t already know it:  
 [https://techgnosis.com/](https://techgnosis.com/)
-- Listen to Katherine Hayles: [http://culturemachinepodcasts.podbean.com/e/technogenesis-and-media-specific-analysis-n-katherine-hayles/](http://culturemachinepodcasts.podbean.com/e/technogenesis-and-media-specific-analysis-n-katherine-hayles/)
+- Listen to Katherine Hayles:  
+[http://culturemachinepodcasts.podbean.com/e/technogenesis-and-media-specific-analysis-n-katherine-hayles/](http://culturemachinepodcasts.podbean.com/e/technogenesis-and-media-specific-analysis-n-katherine-hayles/)
