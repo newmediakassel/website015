@@ -31,7 +31,7 @@ If you would like to attend please send a short motivation letter (4 sentences m
 ## More To Read
 
 - Lauren’s online book about Artificial Intelligence (in english):  
-[http://www.kunsthauslangenthal.ch/tl_files/medien/kh_lauren_huret_lulu_download.pdf](http://www.kunsthauslangenthal.ch/tl_files/medien/kh_lauren_huret_lulu_download.pdf)
+[http://www.linkartcenter.eu/public/editions/Lauren_Huret_Artificial_Fear_Intelligence_of_Death_Link_Editions_2016.pdf](http://www.linkartcenter.eu/public/editions/Lauren_Huret_Artificial_Fear_Intelligence_of_Death_Link_Editions_2016.pdf)
 - Explore the Erik Davis’ website if you don’t already know it:  
 [https://techgnosis.com/](https://techgnosis.com/)
 - Listen to Katherine Hayles:  
