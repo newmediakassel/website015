@@ -15,8 +15,9 @@ Lauren Huret is a visual artist and reseacher based in Geneva, Switzerland. Laur
 
 ## Workshop
 
-- 22.06.16 // Day 1 // 11-17h
-- 23.06.16 // Day 2 // 11-17h
+- 15.11.16 // Workshop Day 1 //10:30-16:30
+- 16.11.16 // Workshop Day 2 //10:30-13:00
+- 15.11.16 / 18:00-20:00 / Talk / Papiercafé
 
 The workshop will be an individual and group experiment about our feelings/attitude/behaviors/opinions/beliefs toward the internet (mostly toward social media & weak artificial intelligence). We’ll first try to analyse our emotions with different methods ; then we’ll try to produce something from these results.
 
