@@ -14,7 +14,7 @@ Keywords: photoshop, propaganda, faelschung, fake, manipulation, trump, usa, usa
 Was glaube ich, was nicht? Wie lässt sich die Meinung anderer beeinflussen?
 In dieser Videoinstallation wurden Bilder in einer Zeit zwischen 10 Minuten und einer Stunde Manipuliert.
 
-<iframe src="https://player.vimeo.com/video/s7PIjh2UQ5A?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s7PIjh2UQ5A" frameborder="0" allowfullscreen></iframe>
 
 ---
 
