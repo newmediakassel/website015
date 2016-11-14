@@ -60,5 +60,5 @@ Media Archeology, DIY electronics, Sound Art, Experimental Music, circuit design
 - 16.11.16 // Workshop Day 2 //10:30-13:00
 - 15.11.16 / 18:00-20:00 / Talk / Papiercafé
 
-[More Infos][/feelings-on-the-net]
+[More Infos](/feelings-on-the-net)
 
