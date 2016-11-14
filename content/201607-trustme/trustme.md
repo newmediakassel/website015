@@ -2,7 +2,7 @@
 
 Date: 2016/07/14
 
-Authors: [Mario Strahl](https://www.mariostrahl.de)
+Authors: [Mario Strahl](http://www.mariostrahl.de)
 
 Keywords: photoshop, propaganda, faelschung, fake, manipulation, trump, usa, usa, usa, pope, ghaddafi, kanye west,
 
