@@ -8,10 +8,6 @@ Type: Lecture, Workshop, Performance
 
 ![](international-artist-talk-workshop-series.jpg)
 
-2016 - NM presents a talk and workshop series that explores Media Archeology as an artistic approach and Critical Material Practices.
-
----
-
 ## [Morehshin Allahyari](http://www.morehshin.com/) `[Iran/USA]` & [Daniel Rourke](http://machinemachine.net/) `[UK]`
 ### #Additivism // An Encounter with The Fluid Outside
 
