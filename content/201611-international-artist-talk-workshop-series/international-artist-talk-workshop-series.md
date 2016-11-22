@@ -62,3 +62,16 @@ Media Archeology, DIY electronics, Sound Art, Experimental Music, circuit design
 
 [More Infos](/feelings-on-the-net)
 
+---
+
+## [Julian Oliver](https://julianoliver.com) `[New Zealand]`
+
+### Critical Engineering / Critical Exploit
+
+- 29.11.16 // Workshop Day 1 // 11:00-17:00
+- 30.11.16 // Workshop Day 2 // 10:00-16:00
+- 29.11.16 // 18:00 // Talk / Papiercafé
+
+__Keywords:__
+Exploit, Hacking, Engineering, TechnoPolitics, Linux, Wireless Networks
+
