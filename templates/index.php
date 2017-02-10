@@ -44,7 +44,7 @@
 			width: 90%;
 			{% if MaxWidth %}max-width: {{ MaxWidth }};{% endif %}
 			
-			text-align: left;
+			text-align: center;
 			margin: -10rem auto 10rem;
 			padding-top: 10rem;
 		}
