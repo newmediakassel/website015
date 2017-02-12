@@ -8,6 +8,12 @@ Type: Lecture, Workshop
 
 ![](basisklasse-016.jpg)
 
+During the two week visit of the Visual Communication Foundation Class, students and teachers of the New Media department organised and hosted various workshops, exercises and film-screenings.
+
+The program was as diverse as the work being done around the department always is, including topics such as sound art, game modding, social media culture, surveilance and science fiction.
+
+---
+
 ### Essen die Stimme?! Sound Workshop // Echo
 
 __Keywords:__  
@@ -86,7 +92,23 @@ infrastructure, wifi, the cloud, invisible architecture, always online
 __Keywords:__  
 film program, cinema, hard scifi, speculative fiction, human-machine interaction
 
-[Solyaris (1972)](https://en.wikipedia.org/wiki/Solaris_(1972_film))
+[Solyaris (1972)](https://en.wikipedia.org/wiki/Solaris_(1972_film)
 
-[Her (2013)](https://en.wikipedia.org/wiki/Her_(film))
+[Her (2013)](https://en.wikipedia.org/wiki/Her_(film)
+
+---
+
+![](1.jpg)
+
+![](2.png)
+
+![](3.jpg)
+
+![](4.jpg)
+
+![](5.jpg)
+
+![](6.jpg)
+
+![](7.jpg)
 
