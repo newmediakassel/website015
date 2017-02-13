@@ -163,7 +163,7 @@ Flight::before('start', function(&$params, &$output) {
 // ! --- ROUTE: Index ---------------------------
 
 Flight::route('/', function() {
-	return Flight::view()->display('index.php', Flight::get('config')->getNavigation());
+	return Flight::view()->display('index.php', Flight::get('config')->getTemplateData());
 });
 
 // ! --- ROUTE: About ---------------------------
@@ -206,7 +206,7 @@ Flight::route('/@name', function ($name) {
 // ! --- ROUTE: 404 - Not Found -----------------
 
 Flight::map('notFound', function() {
-	Flight::view()->display('404.php', Flight::get('config')->getNavigation());
+	Flight::view()->display('404.php', Flight::get('config')->getTemplateData());
 	Flight::stop(404);
 });
 

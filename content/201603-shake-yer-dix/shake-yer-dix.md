@@ -9,9 +9,11 @@ Keywords: dix, tits, sexy, shaking, game, games, playing, bodies, queer, music, 
 ---
 ---
 
-![](image.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0Or7pMoxcw" frameborder="0" allowfullscreen></iframe>
 
 *Shake Yer Dix* ist ein Musikvideospiel von Nicole Brauer und featured den gleichnaming Song der Künsterlin Peaches.
 Ein Experiment zu Games als (Sex-)Spielzeug.
 
 [Download](https://voec.itch.io/shake-yer-dix) (win, osx, linux)
+
+![](image.png)

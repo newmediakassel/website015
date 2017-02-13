@@ -4,7 +4,6 @@ Date: 2016/04/01
 Type: Workshop
 Authors: [Darsha Hewitt](http://darsha.org), [Jörn Röder](http://joernroeder.de)
 Keywords: Physial computing, DIY electronics, data interventions, public vs. private, open vs. closed systems, hacking, network scanning, mapping, cooperate surveillance, open source, goverment surveillance
-ShowInTicker: true
 
 ---
 ---
