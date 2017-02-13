@@ -19,7 +19,7 @@ The program was as diverse as the work being done around the department always i
 __Keywords:__  
 collage, cutting, sound, contrast, disconnect
 
-[Examples](/essen-die-stimme)
+[Video Documentation](https://vimeo.com/200672791)
 
 ---
 
