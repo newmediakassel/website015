@@ -6,7 +6,7 @@ Type: Lecture, Workshop
 ---
 ---
 
-![](basisklasse-016.jpg)
+![](basisklasse016.jpg)
 
 During the two week visit of the Visual Communication Foundation Class, students and teachers of the New Media department organised and hosted various workshops, exercises and film-screenings.
 
