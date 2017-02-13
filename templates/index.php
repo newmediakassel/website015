@@ -70,6 +70,11 @@
 		#main header p {
 			font-family: monospace;
 		}
+		
+		#main table {
+			margin-left: auto;
+			margin-right: auto;
+		}
 
 		#main td {
 			padding: 0.1em 0.5em;
