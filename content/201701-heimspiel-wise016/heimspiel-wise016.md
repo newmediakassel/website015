@@ -13,6 +13,8 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
 ---
 
+![](elko.jpg)
+
 ## 1/6 Keeping it balanced
 **Elko Braas** // 31.10.16
 
