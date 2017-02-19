@@ -9,7 +9,6 @@ Keywords: Labyrinth, Game,  Processing, Arduino, Holzfräse, LED-Technik
 ---
 ---
 
-
 Labyrinth ist im Grunde nur eine Fläche aus 3 mal 3 Leuchtdioden, Pixeln. Spieler*innen können über die Arcade-Steuerung die Lichtmuster wie eine Karte aus der Draufsicht in alle vier Himmelsrichtungen verschieben.
 
 ![](labyrinth1.jpg)
@@ -21,13 +20,18 @@ Die Installation wird von einem Arduino betrieben und benötigt nur einen Anschl
 Labyrinth war während eines Betrags der Reihe Kurzschluss zum Thema Videospiele und Kurzfilm von ARTE im Computerspielemuseum Berlin zu sehen und wurde im Regierungsprädisium Kassel während der Interventionen 2015 ausgestellt. 
 
 ![](labyrinth2.jpg)
+
 __Ausstellung im Regierungspräsidium__
+
 ---
+
 ![](labyrinth3.jpg)
+
 __Ausstellung beim Rundgang 2015__
 
 ---
 
 
 [![Interaktion beim Rundgang 2015](https://img.youtube.com/vi/BY3P0wCAxPk/0.jpg)](https://www.youtube.com/embed/BY3P0wCAxPk)
+
 __Interaktion beim Rundgang 2015 [Video]__
