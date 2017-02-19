@@ -2,7 +2,7 @@
 
 Date: 2017/01/23
 Type: Exhibition
-Authors: Elko Braas, Mike Huntemann, Sevda Güler, Isabel Paehr, Jasper Meiners, Echo Can Luo, Hannes Drescher
+Authors: Elko Braas, [Mike Huntemann](http://mikehuntemann.de/), Sevda Güler, [Isabel Paehr](http://www.isabelpaehr.com), [Jasper Meiners](http://www.jaspermeiners.com), [Echo Can Luo](https://vimeo.com/user8116607), [Hannes Drescher](https://www.twitter.com/_krisekrise_)
 
 ---
 ---
@@ -21,7 +21,7 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ---
 
 ## 2/6 NSA_UA.WAV
-**Mike Huntemann** // 14.11.16
+**[Mike Huntemann](http://mikehuntemann.de/)** // 14.11.16
 
 ---
 
@@ -33,14 +33,14 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ![](jisi.jpg)
 
 ## 4/6 Internet Restroom
-**Isabel Paehr & Jasper Meiners** // 12.12.16
+**[Isabel Paehr](http://www.isabelpaehr.com) & [Jasper Meiners](http://www.jaspermeiners.com)** // 12.12.16
 
 ---
 
 ![](echo.jpg)
 
 ## 5/6 29°01′53″N 111°41′56″E
-**Echo Can Luo** // 09.01.17
+**[Echo Can Luo](https://vimeo.com/user8116607)** // 09.01.17
 
 [Video](https://www.youtube.com/watch?v=EZlaySlifxc&t=17s.)
 
@@ -49,4 +49,4 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ![](hannes.jpg)
 
 ## 6/6 YATOTW.exe
-**Hannes Drescher** // 23.01.17
+**[Hannes Drescher](https://www.twitter.com/_krisekrise_)** // 23.01.17
