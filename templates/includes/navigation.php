@@ -85,7 +85,11 @@
 		}
 	</style>
 	<center>
-		<h1 style="padding: 3rem 0"><img src="{{ random(Logos) }}" alt="New Media Kassel" ></h1>
+		<h1 style="padding: 3rem 0">
+			<a href="/">
+				<img src="{{ random(Logos) }}" alt="New Media Kassel" >
+			</a>
+		</h1>
 
 		<nav>
 			<ul>
