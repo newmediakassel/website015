@@ -63,7 +63,7 @@ class MyAppConfig extends Config {
 
   	public function updateTemplateData(&$templateData) {
 		// Iterate through the navigation items and add <ticker> items to the template.
-		$this->updateNavigationData($templateData);
+		$this->addTickerItems($templateData);
 		$this->addLogos($templateData);
 	}
 
@@ -76,7 +76,7 @@ class MyAppConfig extends Config {
 		);
 	}
 
-	private function updateNavigationData(&$templateData) {
+	private function addTickerItems(&$templateData) {
 		$nav = $templateData['Navigation'];
 		$tickerItems = array();
 
