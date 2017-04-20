@@ -85,24 +85,8 @@
 		}
 	</style>
 	<center>
-		<pre>
+		<h1 style="padding: 3rem 0"><img src="{{ random(Logos) }}" alt="New Media Kassel" ></h1>
 
-
-
-NMMMMM MMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMy:    
-NMMMMM MMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMMMy:  
-NMMMMM MMNNNNNNNMMMMMM  MMMMMMMMMMMMMMMMMMMMy:
-NMMMMM          MMMMMM  MMMMMM +dMMMMM  MMMMMM
-NMMMMM          MMMMMM  MMMMMM  .+dMMM  MMMMMM
-NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
-/dMMMM          MMMMMM  MMMMMM      ./  MMMMMM
-  /dMM          MMMMMM  MMMMMM          MMMMMM
-    /d          MMMMMM  MMMMMM          MMMMMM
-
-            ~ ~ New Media Kassel ~ ~            
-
-
-		</pre>
 		<nav>
 			<ul>
 				<!-- Todo: add active link state -->

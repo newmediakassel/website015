@@ -18,6 +18,7 @@ class MyAppConfig extends Config {
 		'cache.enabled'				=> true,
 		'cache.path'				=> '../cache/',
 		'content.path'				=> '../content/',
+		'assets.path'				=> 'assets/',
 		'navigation.sortreverse'	=> true,
 		'template.data'				=> array(
 			'MaxWidth'	=> '800px'
@@ -62,7 +63,17 @@ class MyAppConfig extends Config {
 
   	public function updateTemplateData(&$templateData) {
 		// Iterate through the navigation items and add <ticker> items to the template.
-		updateNavigationData($templateData);
+		$this->updateNavigationData($templateData);
+		$this->addLogos($templateData);
+	}
+
+	private function addToTemplateData(&$templateData, $key, $value) {
+		$templateData = array_merge(
+				$templateData,
+				array(
+					$key => $value
+				)
+		);
 	}
 
 	private function updateNavigationData(&$templateData) {
@@ -75,12 +86,26 @@ class MyAppConfig extends Config {
 			}
 		}
 
-		$templateData = array_merge(
-				$templateData,
-				array(
-					'TickerItems' => $tickerItems
-				)
-		);
+		$this->addToTemplateData($templateData, 'TickerItems', $tickerItems);
+	}
+
+	private function addLogos(&$templateData) {
+		$dir = $this->get('assets.path') . 'logos';
+		$logos = array();
+
+		if (is_dir($dir)) {
+			if ($dh = opendir($dir)) {
+				while (($file = readdir($dh)) !== false) {
+					if ($file === '.' or $file === '..') continue;
+
+        			$logos[] = '/' . $dir . '/' . $file;
+				}
+
+        		closedir($dh);
+			}
+		}
+
+		$this->addToTemplateData($templateData, 'Logos', $logos);
 	}
 
 	// override factories
