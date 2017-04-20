@@ -28,6 +28,8 @@ _– Judith Butler_
 - [Subscribe to our Newsletter](http://newsletter.newmediakassel.com)
 - [See our Events in the Calendar](http://calendar.newmediakassel.com)
 - [Follow us on Twitter](http://twitter.com/nmkhk)
+- [Like us on Facebook](https://www.facebook.com/newmediakassel/)
+- [Follow us on Instagram](https://instagram.com/newmedia_kassel)
 
 
 ## Teaching
@@ -115,12 +117,3 @@ _– Judith Butler_
 - [Ann Schomburg](http://www.annschomburg.info/)
 - [Philipp Teister](http://localdataeatsthemachine.com/)
 - [Marcus Wendt](http://field.io)
-
-
-    
-    
-    
-    
-    
-    
-    
