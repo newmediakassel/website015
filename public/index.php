@@ -60,8 +60,12 @@ class MyAppConfig extends Config {
 		}
 	}
 
-  // Iterate through the navigation items and add <ticker> items to the template.
-	public function updateTemplateData(&$templateData) {
+  	public function updateTemplateData(&$templateData) {
+		// Iterate through the navigation items and add <ticker> items to the template.
+		updateNavigationData($templateData);
+	}
+
+	private function updateNavigationData(&$templateData) {
 		$nav = $templateData['Navigation'];
 		$tickerItems = array();
 
@@ -80,7 +84,7 @@ class MyAppConfig extends Config {
 	}
 
 	// override factories
-	
+
 	public function createNavigationLoader($context) {
 		return new MyNavigationLoader($context);
 	}
@@ -89,7 +93,7 @@ class MyAppConfig extends Config {
 // ----------------------------------------
 
 class MyNavigationLoader extends NavigationLoader {
-	
+
 	// adds a year seperator to the navigation list
 	public function getLinks($currentUrl = null) {
 		$links = parent::getLinks($currentUrl);
@@ -132,14 +136,14 @@ if (Flight::get('config')->get('showErrors')) {
 /**
  * Initiate Twig, and register to Flight
  */
-$twigLoader = new Twig_Loader_Filesystem('../templates'); 
+$twigLoader = new Twig_Loader_Filesystem('../templates');
 $twigConfig = array(
 	'cache'	=>	Flight::get('config')->get('cache.enabled') ? Flight::get('config')->get('cache.path') . 'twig/' : false,
 	'debug'	=>	Flight::get('config')->get('debug'),
 );
 Flight::register('view', 'Twig_Environment', array($twigLoader, $twigConfig), function($twig) {
 	$twig->addExtension(new Twig_Extension_Debug()); // Add the debug extension
-	
+
 	$currentUrl = sprintf(
 		"%s://%s%s",
 		isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
