@@ -83,6 +83,16 @@
 		#main > div {
 			margin: 0 auto;
 		}
+		
+		#main ul,
+		#main ol {
+			display: inline-block;
+		}
+		
+		#main ul li,
+		#main ol li {
+			text-align: left;
+		}
 	</style>
 
 	{% block jsonld %}{% endblock %}
