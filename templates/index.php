@@ -93,6 +93,14 @@
 		#main ol li {
 			text-align: left;
 		}
+		
+		#main h2 + ul,
+		#main h2 + ol,
+		#main h3 + ul,
+		#main h2 + ol {
+			margin-top: 0;
+		}
+		
 	</style>
 
 	{% block jsonld %}{% endblock %}
