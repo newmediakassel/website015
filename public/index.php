@@ -64,6 +64,7 @@ class MyAppConfig extends Config {
   	public function updateTemplateData(&$templateData) {
 		// Iterate through the navigation items and add <ticker> items to the template.
 		$this->addTickerItems($templateData);
+		$this->updateNavigationStructure($templateData);
 		$this->addLogos($templateData);
 	}
 
@@ -106,6 +107,10 @@ class MyAppConfig extends Config {
 		}
 
 		$this->addToTemplateData($templateData, 'Logos', $logos);
+	}
+
+	private function updateNavigationStructure(&$templateData) {
+
 	}
 
 	// override factories
