@@ -62,7 +62,7 @@
 		/* year separator */
 		#top nav ul li .date {
 			display: inline-block;
-			margin-top: 1em;
+			margin-top: 2rem;
 			font-family: monospace;
 		}
 
@@ -133,7 +133,7 @@
 					{% for Link in Navigation %}
 						<li{% if Link.Type %} class="{% if Link.Type is iterable %}{% for t in Link.Type %}{{ t|lower|e('html_attr') }}{% endfor %}{% else %}{{ t|lower|e('html_attr') }}{% endif %}"{% endif %}>
 							{% if Link.IsDate %}
-								~ <strong class="date" id="{{ Link.Title }}">{{ Link.Title }}</strong> ~
+								<h2 class="date" id="{{ Link.Title }}">~ {{ Link.Title }} ~</h2>
 							{% elseif Link.Url %}
 								<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
 									{{ Link.Title|trim }}
