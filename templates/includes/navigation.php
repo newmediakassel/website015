@@ -85,24 +85,12 @@
 		}
 	</style>
 	<center>
-		<pre>
+		<h1 style="padding: 3rem 0">
+			<a href="/">
+				<img src="{{ random(Logos) }}" alt="New Media Kassel" >
+			</a>
+		</h1>
 
-
-
-NMMMMM MMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMy:    
-NMMMMM MMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMMMy:  
-NMMMMM MMNNNNNNNMMMMMM  MMMMMMMMMMMMMMMMMMMMy:
-NMMMMM          MMMMMM  MMMMMM +dMMMMM  MMMMMM
-NMMMMM          MMMMMM  MMMMMM  .+dMMM  MMMMMM
-NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
-/dMMMM          MMMMMM  MMMMMM      ./  MMMMMM
-  /dMM          MMMMMM  MMMMMM          MMMMMM
-    /d          MMMMMM  MMMMMM          MMMMMM
-
-            ~ ~ New Media Kassel ~ ~            
-
-
-		</pre>
 		<nav>
 			<ul>
 				<!-- Todo: add active link state -->
@@ -115,6 +103,7 @@ NMMMMM          MMMMMM  MMMMMM    .+MM  MMMMMM
 				<li><a href="http://calendar.newmediakassel.com" target="_blank">See our Events in the Calendar</a></li>
 				<li><a href="https://twitter.com/nmkhk" target="_blank">Follow us on Twitter</a></li>
 				<li><a href="https://www.facebook.com/newmediakassel/" target="_blank">Like us on Facebook</a></li>
+				<li><a href="https://instagram.com/newmedia_kassel" target="_blank">Follow us on Instagram</a></li>
 			</ul>
 
 			<ul>
