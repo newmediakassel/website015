@@ -92,9 +92,9 @@ infrastructure, wifi, the cloud, invisible architecture, always online
 __Keywords:__  
 film program, cinema, hard scifi, speculative fiction, human-machine interaction
 
-[Solyaris (1972)](https://en.wikipedia.org/wiki/Solaris_(1972_film)
+[Solyaris (1972)](https://en.wikipedia.org/wiki/Solaris_(1972_film))
 
-[Her (2013)](https://en.wikipedia.org/wiki/Her_(film)
+[Her (2013)](https://en.wikipedia.org/wiki/Her_(film))
 
 ---
 
