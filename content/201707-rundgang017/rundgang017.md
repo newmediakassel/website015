@@ -1,4 +1,4 @@
-# MAKE IT FIT!
+# Rundgang 2017
 
 Date: 2017/07/13
 Type: Exhibition
@@ -16,7 +16,7 @@ Authors: Leonard Bahro, Echo Canluo, Christopher Casper, Hannes Drescher, Stefan
 
 **13.7. – 16.7.2017**
 
-Die Klasse ‚Neue Medien‘ zeigt neue Arbeiten aus dem Jahr 2016/17. In einem weitem Spektrum an Fragestellungen untersuchen die Studierenden die Einflüsse von digitaler Kultur und Internetphänomenen auf die Gesellschaft. Mit Websites, Video, 3D, Games bis hin zu Installation und skulpturalen Arbeiten verhandeln die einzelnen Positionen der Klasse aktuelle Themen der post-digitalen Generation. Der Ausstellungstitel y tho ist dem gleichnamigen Internet-Meme entlehnt und thematisiert die typische Kommentarkultur im Netz. 
+Die Klasse *Neue Medien* zeigt neue Arbeiten aus dem Jahr 2016/17. In einem weitem Spektrum an Fragestellungen untersuchen die Studierenden die Einflüsse von digitaler Kultur und Internetphänomenen auf die Gesellschaft. Mit Websites, Video, 3D, Games bis hin zu Installation und skulpturalen Arbeiten verhandeln die einzelnen Positionen der Klasse aktuelle Themen der post-digitalen Generation. Der Ausstellungstitel y tho ist dem gleichnamigen Internet-Meme entlehnt und thematisiert die typische Kommentarkultur im Netz. 
 
 *A massive lacking of understanding or comprehension of what you are witnessing. To be confused beyond the realities of the real world. A true blown lightbulb moment.  - (Urban Dictionary)*
 
@@ -142,7 +142,7 @@ Diese Videoinstallation beschäftigt sich mit dem Thema "Fake News" und zeigt au
 
 ---
 
-![](nicole.jpg)
+![](akt.jpg)
 
 **The Cosmosexual Merger**, Nicole Voec, 2017, Performance
 
