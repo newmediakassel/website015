@@ -1,4 +1,4 @@
-# Heimspiel
+# Heimspiel Series
 
 Date: 2017/01/23
 Type: Exhibition
@@ -7,7 +7,7 @@ Authors: Elko Braas, [Mike Huntemann](http://mikehuntemann.de/), Sevda Güler, [
 ---
 ---
 
-![](heimspiel.jpg)
+![](heimspiel.png)
 
 Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
@@ -16,7 +16,10 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ![](elko.jpg)
 
 ## 1/6 Keeping it balanced
+
 **Elko Braas** // 31.10.16
+
+[Read More](/heimspiel-elko-braas-keeping-it-balanced)
 
 ---
 
