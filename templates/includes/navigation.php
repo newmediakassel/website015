@@ -46,12 +46,12 @@
 		}
 
 		/* indicate class related items */
-		#top nav ul li.workshop,
+		/*#top nav ul li.workshop,
 		#top nav ul li.exhibition,
 		#top nav ul li.talk,
 		#top nav ul li.lecture {
 			font-style: italic;
-		}
+		}*/
 
 		#top nav ul li abbr {
 			cursor: help;
@@ -63,6 +63,13 @@
 		#top nav ul li .date {
 			display: inline-block;
 			margin-top: 2rem;
+			font-family: monospace;
+		}
+
+		/* sub headline */
+		#top nav ul li .subheadline {
+			display: inline-block;
+			margin: 0 0 0.5rem;
 			font-family: monospace;
 		}
 
@@ -131,27 +138,15 @@
 					{% endif %}
 
 					{% for Link in Navigation %}
-						<li{% if Link.Type %} class="{% if Link.Type is iterable %}{% for t in Link.Type %}{{ t|lower|e('html_attr') }}{% endfor %}{% else %}{{ t|lower|e('html_attr') }}{% endif %}"{% endif %}>
+						<li{% if Link.Type %} class="{% if Link.Type is iterable %}{% for t in Link.Type %}{{ t|lower|e('html_attr') }} {% endfor %}{% else %}{{ Link.Type|lower|e('html_attr') }}{% endif %}"{% endif %}>
 							{% if Link.IsDate %}
 								<h2 class="date" id="{{ Link.Title }}">~ {{ Link.Title }} ~</h2>
+							{% elseif Link.IsSubHeadline %}
+								<h3 class="subheadline" id="{{ Link.Title }}">{{ Link.Title }}</h3>
 							{% elseif Link.Url %}
 								<a href="{{ Link.Url }}" rel="bookmark" class="{% if Link.IsActive %}active{% endif %}">
 									{{ Link.Title|trim }}
 								</a>
-
-								{% if Link.Type is iterable %}
-									[
-									{% for t in Link.Type|sort %}
-										<abbr title="{{ t }}">{{ t|first|upper }}</abbr>
-									{% endfor %}
-									]
-								{% else %}
-									{% if Link.Type and Link.Type|lower != "project" %}
-										<abbr title="{{ Link.Type }}">
-											[{{ Link.Type|first|upper }}]
-										</abbr>
-									{% endif %}
-								{% endif %}
 							{% else %}
 								{{ Link.Title|trim }}
 							{% endif %}
