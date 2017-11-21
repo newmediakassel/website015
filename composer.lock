@@ -147,7 +147,7 @@
                 "source": "https://github.com/joernroeder/pocomd/tree/master",
                 "issues": "https://github.com/joernroeder/pocomd/issues"
             },
-            "time": "2017-02-12 18:32:46"
+            "time": "2017-02-12T18:32:46+00:00"
         },
         {
             "name": "michelf/php-markdown",
@@ -202,16 +202,16 @@
         },
         {
             "name": "mikecao/flight",
-            "version": "v1.3.2",
+            "version": "v1.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mikecao/flight.git",
-                "reference": "c3c6f689099937e6e4ecf25b7fe8c780df1500f9"
+                "reference": "e146b8c0ddbc6384c5a66f23dea71743fc282289"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mikecao/flight/zipball/c3c6f689099937e6e4ecf25b7fe8c780df1500f9",
-                "reference": "c3c6f689099937e6e4ecf25b7fe8c780df1500f9",
+                "url": "https://api.github.com/repos/mikecao/flight/zipball/e146b8c0ddbc6384c5a66f23dea71743fc282289",
+                "reference": "e146b8c0ddbc6384c5a66f23dea71743fc282289",
                 "shasum": ""
             },
             "require": {
@@ -241,24 +241,24 @@
             ],
             "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.",
             "homepage": "http://flightphp.com",
-            "time": "2016-10-25T19:27:20+00:00"
+            "time": "2017-10-20T01:46:56+00:00"
         },
         {
             "name": "twig/twig",
-            "version": "v1.33.1",
+            "version": "v1.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "a87f959f4b691da66aada267a2dfdb260d0bb58a"
+                "reference": "daa657073e55b0a78cce8fdd22682fddecc6385f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/a87f959f4b691da66aada267a2dfdb260d0bb58a",
-                "reference": "a87f959f4b691da66aada267a2dfdb260d0bb58a",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/daa657073e55b0a78cce8fdd22682fddecc6385f",
+                "reference": "daa657073e55b0a78cce8fdd22682fddecc6385f",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.2.7"
+                "php": ">=5.3.3"
             },
             "require-dev": {
                 "psr/container": "^1.0",
@@ -268,12 +268,15 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.33-dev"
+                    "dev-master": "1.35-dev"
                 }
             },
             "autoload": {
                 "psr-0": {
                     "Twig_": "lib/"
+                },
+                "psr-4": {
+                    "Twig\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -303,7 +306,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2017-04-18T21:43:11+00:00"
+            "time": "2017-09-27T18:06:46+00:00"
         }
     ],
     "packages-dev": [],
