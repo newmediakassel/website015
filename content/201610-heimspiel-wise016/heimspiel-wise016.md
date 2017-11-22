@@ -1,6 +1,6 @@
 # Heimspiel Series
 
-Date: 2017/01/23
+Date: 2016/10/15
 Type: Exhibition
 Authors: Elko Braas, [Mike Huntemann](http://mikehuntemann.de/), Sevda Güler, [Isabel Paehr](http://www.isabelpaehr.com), [Jasper Meiners](http://www.jaspermeiners.com), [Echo Can Luo](https://vimeo.com/user8116607), [Hannes Drescher](https://www.twitter.com/_krisekrise_)
 
@@ -27,6 +27,8 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 **[Mike Huntemann](http://mikehuntemann.de/)** // 14.11.16
 
 ---
+
+![](sevda.jpg)
 
 ## 3/6 Let it burn while I cry
 **Sevda Güler** // 28.11.16
