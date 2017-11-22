@@ -33,6 +33,8 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ## 3/6 Let it burn while I cry
 **Sevda Güler** // 28.11.16
 
+[Read More](/heimspiel-sevda-gueler-let-it-burn-while-i-cry)
+
 ---
 
 ![](jisi.jpg)
