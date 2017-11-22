@@ -6,7 +6,7 @@ Authors: Elko Braas
 ---
 ---
 
-![](heimspiel_1_elko-010.jpg)
+![](heimspiel_1_elko-010.png)
 
 Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
