@@ -12,10 +12,8 @@ Die Video-Installation _NSA_UA_ basiert auf dem zeitlichen Rhythmus des NSA-Unte
 
 Video-Installation, 14 min, HD, Stereo, Loop
 
-
+---
 
 ![](heimspiel_2_mike.png)
 
 Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
-
----
