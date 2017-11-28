@@ -49,7 +49,7 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ## 5/6 29°01′53″N 111°41′56″E
 **[Echo Can Luo](https://vimeo.com/user8116607)** // 09.01.17
 
-[Video](https://www.youtube.com/watch?v=EZlaySlifxc&t=17s.)
+[Read More](/heimspiel-echo-can-luo-29-01-53-n-111-41-56-e)
 
 ---
 
