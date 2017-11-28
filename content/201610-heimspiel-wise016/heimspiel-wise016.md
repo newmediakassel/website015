@@ -22,6 +22,7 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 [Read More](/heimspiel-elko-braas-keeping-it-balanced)
 
 ---
+![](mike.jpg)
 
 ## 2/6 NSA_UA.WAV
 **[Mike Huntemann](http://mikehuntemann.de/)** // 14.11.16
