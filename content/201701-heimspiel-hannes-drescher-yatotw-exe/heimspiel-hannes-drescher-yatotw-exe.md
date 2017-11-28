@@ -1,5 +1,5 @@
 Date: 2017/11/00
-Authors: Hannes Drescher
+Authors: [Hannes Drescher](https://www.twitter.com/_krisekrise_)
 Keywords:
 
 ---
