@@ -5,10 +5,10 @@ Keywords: nsa, untersuchungsausschuss, privacy, arena, heimspiel, video, install
 ---
 ---
 
-# NSA_UA.WAV
+# NSA_UA
 <iframe src="https://player.vimeo.com/video/219681007?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Die Video-Installation “NSA_UA.WAV” basiert auf dem zeitlichen Rhythmus des NSA-Untersuchungsausschusses, welcher durch tieftonige Synthesizer-Sounds und Audio-Ausschnitte öffentlicher Aussagen zu inhaltlichen Wendepunkten ergänzt werden. Auf der Bildebene leuchten zeitlich passende Zusammenfassungen, bevor diese verblassen und mit den vorangegangenen Textstücken verschmelzen.
+Die Video-Installation _NSA_UA_ basiert auf dem zeitlichen Rhythmus des NSA-Untersuchungsausschusses, welcher durch tieftonige Synthesizer-Sounds und Audio-Ausschnitte öffentlicher Aussagen zu inhaltlichen Wendepunkten ergänzt werden. Auf der Bildebene leuchten zeitlich passende Zusammenfassungen, bevor diese verblassen und mit den vorangegangenen Textstücken verschmelzen.
 
 Video-Installation, 14 min, HD, Stereo, Loop
 
