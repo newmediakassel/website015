@@ -159,6 +159,10 @@ class MyNavigationLoader extends NavigationLoader {
 						}
 					}
 
+					foreach ($types as $key => $type) {
+						$types[$key] = $type . 's';
+					}
+
 					if (!empty($currentYear['Typed'])) {
 						$items[] = array(
 							'Title' => join(' // ', $types),
@@ -187,7 +191,8 @@ class MyNavigationLoader extends NavigationLoader {
 				$currentYear = array(
 					'Year' => array(
 						'Title' => $date,
-						'IsDate' => true
+						'IsDate' => true,
+						'Type' => 'date'
 					),
 					'Typed' => array(),
 					'Project' => array()
