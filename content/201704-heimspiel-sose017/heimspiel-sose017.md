@@ -23,3 +23,9 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
 ---
 
+## 2/6 Quell
+
+**[Zhifeng Zhang](http://zhangzhifeng.me)** // 02.05.2017
+
+<!--[Read More](/heimspiel-zhifeng-zhang-quell)-->
+
