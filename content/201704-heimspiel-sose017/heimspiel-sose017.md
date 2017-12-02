@@ -36,3 +36,11 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 **[Nicole Brauer](https://www.google.com/#safe=off&q=nicole+brauer)** // 15.05.2015
 
 <!--[Read More](/heimspiel-zhifeng-zhang-sending-all-love-from-my-closed-source-paradise)-->
+
+---
+
+## 4/6
+
+**[Stefan Endres](http:/stefanendres.com)** // 29.05.2017
+
+<!--[Read More](/heimspiel-stefan-endres-stefanendres-com-dev-superfamerelaxation)-->
