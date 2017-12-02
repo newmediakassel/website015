@@ -13,7 +13,7 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
 ---
 
-![](didem.jpg)
+![](dear-space.jpg)
 
 ## 1/6 Dear Space
 
