@@ -44,3 +44,11 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 **[Stefan Endres](http:/stefanendres.com)** // 29.05.2017
 
 <!--[Read More](/heimspiel-stefan-endres-stefanendres-com-dev-superfamerelaxation)-->
+
+---
+
+## 5/6 Cold but Frail
+
+**[Jonas Leichsenring](https://instagram.com/joleichs/)** // 26.06.2017
+
+<!--[Read More](/heimspiel-jonas-leichsenring-cold-but-frail)-->
