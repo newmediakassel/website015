@@ -20,3 +20,13 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 **Robin Höke** // 31.10.16
 
 [Read More](/heimspiel-robin-hoeke-3-bis-5mm-acrylglass)
+
+---
+
+<!--![](mike.jpg)-->
+
+## #algorithmicwarfare
+
+**[Mike Huntemann](http://mikehuntemann.de/)** // 20.11.2017
+
+<!--[Read More](/heimspiel-mike-huntemann-algorithmicwarfare)-->
