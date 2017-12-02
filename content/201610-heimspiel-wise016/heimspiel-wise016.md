@@ -61,4 +61,4 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 ## 6/6 YATOTW.exe
 **[Hannes Drescher](https://www.twitter.com/_krisekrise_)** // 23.01.17
 
-[Read More](/heimspiel-hannes-drescher-yatotw-exe)
+<!--[Read More](/heimspiel-hannes-drescher-yatotw-exe)-->
