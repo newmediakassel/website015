@@ -1,7 +1,7 @@
 # Heimspiel Series 2
 
-Date: 2017/04/15  
-Type: Exhibition  
+Date: 2017/04/15
+Type: Exhibition
 Authors: [Didem Sandikci](http://didemsandikci.com), [Zhifeng Zhang](http://zhangzhifeng.me), [Nicole Brauer](https://www.google.com/#safe=off&q=nicole+brauer), [Stefan Endres](http:/stefanendres.com), [Jonas Leichsenring](https://instagram.com/joleichs/)
 
 ---
