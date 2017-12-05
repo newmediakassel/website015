@@ -2,7 +2,7 @@
 
 Date: 2017/10/15
 Type: Exhibition
-Authors: Robin Höke, [Mike Huntemann](http://mikehuntemann.de/)
+Authors: Robin Höke, [Mike Huntemann](http://mikehuntemann.de/), [Christopher Casper](http://www.christopher-casper.de)
 
 ---
 ---
@@ -30,3 +30,11 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 **[Mike Huntemann](http://mikehuntemann.de/)** // 20.11.2017
 
 [Read More](/heimspiel-mike-huntemann-algorithmicwarfare)
+
+---
+
+## Vapor of Nuance
+
+**[Christopher Casper](http://www.christopher-casper.de)** // 04.12.2017
+
+<!--[Read More](/heimspiel-christopher-casper-vapor-of-nuance)-->
