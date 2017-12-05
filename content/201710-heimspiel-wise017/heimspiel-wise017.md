@@ -23,10 +23,10 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
 ---
 
-<!--![](mike.jpg)-->
+![](mike-huntemann-algorithmicwarfare.jpg)
 
 ## #algorithmicwarfare
 
 **[Mike Huntemann](http://mikehuntemann.de/)** // 20.11.2017
 
-<!--[Read More](/heimspiel-mike-huntemann-algorithmicwarfare)-->
+[Read More](/heimspiel-mike-huntemann-algorithmicwarfare)
