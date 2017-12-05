@@ -33,17 +33,19 @@ Heimspiel. Bi-weekly speed exhibitions at New Media Kassel.
 
 ## 3/6 Sending all love from my closed source paradise
 
-**[Nicole Brauer](https://www.google.com/#safe=off&q=nicole+brauer)** // 15.05.2015
+**[Nicole Brauer](https://www.google.com/#safe=off&q=nicole+brauer)** // 15.05.2017
 
 <!--[Read More](/heimspiel-zhifeng-zhang-sending-all-love-from-my-closed-source-paradise)-->
 
 ---
 
+![](stefanendres-com-dev-superfamerelaxation.png)
+
 ## 4/6 stefanendres.com/dev/superfamerelaxation
 
 **[Stefan Endres](http:/stefanendres.com)** // 29.05.2017
 
-<!--[Read More](/heimspiel-stefan-endres-stefanendres-com-dev-superfamerelaxation)-->
+[Read More](/heimspiel-stefan-endres-stefanendres-com-dev-superfamerelaxation)
 
 ---
 
