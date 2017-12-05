@@ -1,5 +1,5 @@
 Date: 2017/05/29
-Authors: [Stefan Endres](http:/www.stefanendres.com)
+Authors: [Stefan Endres](http://www.stefanendres.com)
 Keywords: Website, Responsive
 
 ---
