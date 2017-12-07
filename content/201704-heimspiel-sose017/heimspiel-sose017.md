@@ -54,8 +54,10 @@ In a public critique process the class and visitors then discuss the show.
 
 ---
 
+![](cold-but-frail.jpg)
+
 ## 5/6 Cold but Frail
 
 **[Jonas Leichsenring](https://instagram.com/joleichs/)** // 26.06.2017
 
-<!--[Read More](/heimspiel-jonas-leichsenring-cold-but-frail)-->
+[Read More](/heimspiel-jonas-leichsenring-cold-but-frail)
