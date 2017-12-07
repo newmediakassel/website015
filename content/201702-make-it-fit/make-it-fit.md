@@ -2,7 +2,7 @@
 
 Date: 2017/02/04
 Type: Exhibition
-Authors: [Nicole Brauer](https://twitter.com/notbanachtarski), [Echo Canluo](https://vimeo.com/user8116607), [Christopher Casper](http://www.christopher-casper.de), [Hannes Drescher](https://www.twitter.com/_krisekrise_), [IEII](http://joernroeder.de), [Stefan Endres](http://www.stefanendres.com), [Lou Hardt](http://louhardt.tumblr.com/), [Saskia Kaffenberger](https://www.instagram.com/memosaka/), [Hannah Kretzschmar](https://www.instagram.com/lucy.fuck/), [Jonas Leichsenring](https://www.instagram.com/joleichs/), [Jasper Meiners](http://www.jaspermeiners.com), [Isabel Paehr](http://www.isabelpaehr.com), [Jörn Röder](http://joernroeder.de), [Fritz Laszlo Weber](http://fritz-weber.de/), [Zhifeng Zhang](http://zhang-zhifeng.tumblr.com/), [Aram Bartholl](http://datenform.de/)
+Authors: [Nicole Brauer](https://twitter.com/notbanachtarski), [Echo Canluo](https://vimeo.com/user8116607), [Christopher Casper](http://www.christopher-casper.de), [Hannes Drescher](https://www.twitter.com/_krisekrise_), [IEII](http://joernroeder.de), [Stefan Endres](http://www.stefanendres.com), [Lou Hardt](http://louhardt.tumblr.com/), [Saskia Kaffenberger](https://www.instagram.com/memosaka/), [Hannah Kretzschmar](https://www.instagram.com/lucy.fuck/), [Jonas Leichsenring](https://www.instagram.com/jonas_leichsenring/), [Jasper Meiners](http://www.jaspermeiners.com), [Isabel Paehr](http://www.isabelpaehr.com), [Jörn Röder](http://joernroeder.de), [Fritz Laszlo Weber](http://fritz-weber.de/), [Zhifeng Zhang](http://zhang-zhifeng.tumblr.com/), [Aram Bartholl](http://datenform.de/)
 
 ---
 ---
@@ -71,7 +71,7 @@ The suitcase homeSweetHome gives voice to the numerous smart devices screaming n
 ![](google.jpg)
 
 ### air bed, printed fitted sheet, 2017
-**[Hannah Kretzschmar](https://www.instagram.com/lucy.fuck/), [Jonas Leichsenring](https://www.instagram.com/joleichs/)**
+**[Hannah Kretzschmar](https://www.instagram.com/lucy.fuck/), [Jonas Leichsenring](https://www.instagram.com/jonas_leichsenring/)**
 
 The air mattress shows all pictures from google search \#makeitfit compressed upon one fitted sheet.
 Using the content aware-scaling tool in photoshop which cannot handle the huge amount of data, images are destroyed, shred to pixels or only partly visible.

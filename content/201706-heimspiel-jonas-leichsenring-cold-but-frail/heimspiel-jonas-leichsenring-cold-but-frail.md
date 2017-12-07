@@ -1,5 +1,5 @@
 Date: 2017/06/26
-Authors: [Jonas Leichsenring](https://www.instagram.com/joleichs/)
+Authors: [Jonas Leichsenring](https://www.instagram.com/jonas_leichsenring/)
 Keywords:
 
 ---
