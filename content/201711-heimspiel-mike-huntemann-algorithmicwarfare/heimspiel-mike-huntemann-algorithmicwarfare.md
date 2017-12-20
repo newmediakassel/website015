@@ -11,6 +11,8 @@ Keywords: drones, technology, dji, phantom, mavicpro, military, algorithm
 ![](AW_3.jpg)
 ![](AW_4.jpg)
 ![](AW_5.jpg)
+![](AW_6.jpg)
+![](AW_7.jpg)
 
 \#algorithmicwarfare Chapters 1 - 4
 Video-Installation, 5 Min, Stereo, Loop
