@@ -130,22 +130,80 @@ class MyNavigationLoader extends NavigationLoader {
 		$currentDate = null;
 		$items = array();
 
+		$currentYear = null;
+
 		foreach ($links as $link) {
+			//print_r($link);
 			$date = isset($link['Date']) ? $link['Date'] : null;
 
 			// check if the link has a new date.
 			// add it to the items list an reset the date.
 			if ($date && $currentDate != $date) {
-				$items[] = array(
-					'Title' => $date,
-					'IsDate' => true
+				if ($currentYear && (!empty($currentYear['Typed']) || !empty($currentYear['Project']))) {
+					// append previous year
+					$items[] = $currentYear['Year'];
+
+					$types = [];
+					foreach ($currentYear['Typed'] as $typed) {
+						if (!in_array($typed['Type'], $types)) {
+							if (is_array($typed['Type'])) {
+								foreach ($typed['Type'] as $t) {
+									if (!in_array($t, $types)) {
+										$types[] = $t;
+									}
+								}
+							}
+							else {
+								$types[] = $typed['Type'];
+							}
+						}
+					}
+
+					foreach ($types as $key => $type) {
+						$types[$key] = $type . 's';
+					}
+
+					if (!empty($currentYear['Typed'])) {
+						$items[] = array(
+							'Title' => join(' // ', $types),
+							'IsSubHeadline' => true,
+							'Type' => 'subheadline'
+						);
+
+						foreach ($currentYear['Typed'] as $typed) {
+							$items[] = $typed;
+						}
+					}
+
+					if (!empty($currentYear['Project'])) {
+						$items[] = array(
+							'Title' => 'Projects',
+							'IsSubHeadline' => true,
+							'Type' => 'subheadline'
+						);
+
+						foreach ($currentYear['Project'] as $project) {
+							$items[] = $project;
+						}
+					}
+				}
+
+				$currentYear = array(
+					'Year' => array(
+						'Title' => $date,
+						'IsDate' => true,
+						'Type' => 'date'
+					),
+					'Typed' => array(),
+					'Project' => array()
 				);
 
 				$currentDate = $date;
 			}
 
 			// push link to items array
-			$items[] = $link;
+			$typed = isset($link['Type']) && $link['Type'] ? 'Typed' : 'Project';
+			$currentYear[$typed][] = $link;
 		}
 
 		return $items;

@@ -1,6 +1,8 @@
 {% extends "index.php" %}
 
-{% block title %}{{ Title }} »{% endblock %}
+{% block title %}
+	{{ Title }} » {% if Authors %}{% for Author in Authors %}{% if false == loop.first %}, {% endif %}{% if Author.Url %}{{ Author.Title }}{% else %}{{ Author }}{% endif %}{% endfor %} » {% endif %}
+{% endblock %}
 
 {% block detail %}
 	<div {%  if Width %} style="width:{{ Width }}px"{% endif %}>
@@ -64,8 +66,8 @@
 
 	document.addEventListener("DOMContentLoaded", function(event) {
 		fitvids('#main');
- 		document.getElementById('main').scrollIntoView();
- 		externalLinks();
+		document.getElementById('main').scrollIntoView();
+		externalLinks();
 	});
 </script>
 {% endblock %}
