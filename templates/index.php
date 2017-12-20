@@ -101,6 +101,10 @@
 			margin-top: 0;
 		}
 		
+		#main .fluid-width-video-wrapper {
+			margin-bottom: 1rem;
+		}
+
 	</style>
 
 	{% block jsonld %}{% endblock %}
