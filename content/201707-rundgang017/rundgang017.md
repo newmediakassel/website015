@@ -12,41 +12,45 @@ Authors: Leonard Bahro, Echo Canluo, Christopher Casper, Hannes Drescher, Stefan
 ## y tho
 
 **Klasse Neue Medien, Prof. Aram Bartholl**  
-**Kunsthochschule Kassel, Rundgang 2017** 
+**Kunsthochschule Kassel, Rundgang 2017**
 
 **13.7. – 16.7.2017**
 
-Die Klasse *Neue Medien* zeigt neue Arbeiten aus dem Jahr 2016/17. In einem weitem Spektrum an Fragestellungen untersuchen die Studierenden die Einflüsse von digitaler Kultur und Internetphänomenen auf die Gesellschaft. Mit Websites, Video, 3D, Games bis hin zu Installation und skulpturalen Arbeiten verhandeln die einzelnen Positionen der Klasse aktuelle Themen der post-digitalen Generation. Der Ausstellungstitel y tho ist dem gleichnamigen Internet-Meme entlehnt und thematisiert die typische Kommentarkultur im Netz. 
+Die Klasse *Neue Medien* zeigt neue Arbeiten aus dem Jahr 2016/17. In einem weitem Spektrum an Fragestellungen untersuchen die Studierenden die Einflüsse von digitaler Kultur und Internetphänomenen auf die Gesellschaft. Mit Websites, Video, 3D, Games bis hin zu Installation und skulpturalen Arbeiten verhandeln die einzelnen Positionen der Klasse aktuelle Themen der post-digitalen Generation. Der Ausstellungstitel y tho ist dem gleichnamigen Internet-Meme entlehnt und thematisiert die typische Kommentarkultur im Netz.
 
 *A massive lacking of understanding or comprehension of what you are witnessing. To be confused beyond the realities of the real world. A true blown lightbulb moment.  - (Urban Dictionary)*
 
 
 Folgende Studierende zeigen Arbeiten:
 
-**Leonard Bahro, Echo Canluo, Christopher Casper, Hannes Drescher, Stefan Endres, Mike Huntemann, Saskia Kaffenberger, Jonas Leichsenring, Jasper Meiners, Naima Omari, Isabel Paehr, Didem Sandikci, Mario Strahl, Nicole Voec, Zhifeng Zhang** 
+**Leonard Bahro, Echo Canluo, Christopher Casper, Hannes Drescher, Stefan Endres, Mike Huntemann, Saskia Kaffenberger, Jonas Leichsenring, Jasper Meiners, Naima Omari, Isabel Paehr, Didem Sandikci, Mario Strahl, Nicole Voec, Zhifeng Zhang**
 
 ---
 
 ![](leo.jpg)
 
-**Stäbchen-Fisch**, Leonard Bahro, 2017, Elektromechanische Installation, Aquarium auf Sockel
+### Stäbchen-Fisch
+
+Leonard Bahro, 2017, Elektromechanische Installation, Aquarium auf Sockel
 
 Das Prinzip der menschlichen Entfremdung von der lebendigen Form der Nahrungsgrundlagen zog parallel zur Industrialisierung in das Alltagsleben ein und lässt nicht nur vergessen wie vor allem die Tiere aussahen, welche in Industrienahrung verarbeitet wurden, sondern erregen bisweilen sogar Ekel in uns bei dem Anblick von Tierkadavern oder dem Versuch selbst Tiere für den Verzehr vor- und zuzubereiten.
 Hier wurde das verarbeitete Produkt wieder in seine arttypische Bewegung versetzt.
+
+[Read More](/leonard-bahro-staebchen-fisch)
 
 ---
 
 ![](casper.jpg)
 
-**Reiselied**, Christopher Casper, 2017, 3D Rendering, Exhibtion, Full HD, 
-      
+**Reiselied**, Christopher Casper, 2017, 3D Rendering, Exhibtion, Full HD,
+
 Neben der physischen Fortbewegung, beschreibt „Reise“ auch den Wandlungsprozess des Lebens eines Menschen. Demnach ist die Reise nicht als Entfernungsüberbrückung, sondern als Bild für das Leben eines Menschen zu verstehen. Reisen, um sich selbst zu erfahren - denn die Ursprüngliche Bedeutung des Wortes (rīsan) bedeutet soviel wie „sich erheben“ und „aufstehen“ (vgl. engl. to rise). Der Wandel hin zur post-industriellen Lebensweise der nicht-linearen Lebensläufe, kann durch viele aufeinanderfolgende kurze Lebensabschnitte geprägt sein. Wo wurde der Faden des alltäglichen Lebens unterbrochen und wie findet man heraus, wo man wirklich war?
 
 ---
 
 ![](echo.jpg)
 
-**Oh Alexa, please..tell me more!**, Echo Canluo, 2017, Installation: Amazon Echo Dot, Sofa, Screens, Video 
+**Oh Alexa, please..tell me more!**, Echo Canluo, 2017, Installation: Amazon Echo Dot, Sofa, Screens, Video
 
 Alexa is an intelligent personal assistant developed by Amazon, made popular by the Amazon Echo and the Amazon Echo Dot devices developed by Amazon Lab126. In this video installation / performance, Alexa is spending time with her friends. They chat about a series of interesting people and other questions in addition to the past and the future.
 
@@ -95,7 +99,7 @@ werden diese so selten hinterfragt. Was bedeutet es heutzutage ein Mann zu sein?
 
 ![](jonas2.jpg)
 
-**Big Labels Small Prices**, Jonas Leichsenring, 2017,  Textil, S 
+**Big Labels Small Prices**, Jonas Leichsenring, 2017,  Textil, S
 
 Ein Lacoste Polo T-shirt kostet 100 Euro. TK Maxx verkauft große Marken für kleine Preise. Das Sonderposten Lacoste-Polo kostet dort 49,99 Euro. Nach dem jemand in der Filiale das Lacoste-Krokodil von der Brust des Hemdes gerissen hat wurde es weiter auf 17 Euro reduziert. Trotz Nachfrage blieb es bei dem Preis. Was ist der Wert eines Kleidungsstückes? Wie bewerten wir Marken in Zeiten von immer billigeren Ramschläden und globalisierter Massenproduktion?
 
@@ -122,7 +126,7 @@ Users can communicate with each other by switching on and off lights or by using
 
 **J.A.S.S.**, Naima Omari, 2017, Garderobenständer, vier Kleiderbügel, vier Bustiers
 
-J.A.S.S. ist das Ergebnis einer intensiven Auseinandersetzung mit der jeweiligen Bandbreite der Kommunikation in der Online-Welt. Jeder Buchstabe steht für einen Boyfriend aus dem Internet. Wie gehe ich mit Kommunikation um? Welche Voraussetzungen werden benötigt? Was sind sowohl positive als auch negative Konsequenzen dieser Kommunikation? Meine Antworten münden in der Zusammensetzung von Stofflichkeiten. 
+J.A.S.S. ist das Ergebnis einer intensiven Auseinandersetzung mit der jeweiligen Bandbreite der Kommunikation in der Online-Welt. Jeder Buchstabe steht für einen Boyfriend aus dem Internet. Wie gehe ich mit Kommunikation um? Welche Voraussetzungen werden benötigt? Was sind sowohl positive als auch negative Konsequenzen dieser Kommunikation? Meine Antworten münden in der Zusammensetzung von Stofflichkeiten.
 
 ---
 
