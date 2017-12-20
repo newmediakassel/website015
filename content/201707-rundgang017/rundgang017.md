@@ -74,9 +74,13 @@ Beifall ist der Ausdruck der Billigung oder des Gefallens einer Darbietung. In E
 
 ![](mike.jpg)
 
-**GNTM_S12E16_Das_spektakuläre_Finale.mp4**, Mike Huntemann, 2017, Video-Snapchat Performance
+### GNTM_S12E16_Das_spektakuläre_Finale.mp4
+
+Mike Huntemann, 2017, Video-Snapchat Performance
 
 Am Abend des 25. Mai 2017 schauten 2,67 Millionen Zuschauer “das spektakuläre Finale” der 12. Staffel von Germany’s Next Topmodel. In einer dreistündigen Video-Performance, bestehend aus insgesamt 36 Kapiteln, wurde das Fernseherlebnis mit den Features der Snapchat App live kommentiert und dokumentiert.
+
+[Read More](/mike-huntemann-gntm-s12e16-das-spektakulaere-finale-mp4)
 
 ---
 
