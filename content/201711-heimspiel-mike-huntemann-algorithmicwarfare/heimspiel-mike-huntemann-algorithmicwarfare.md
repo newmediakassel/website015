@@ -4,7 +4,7 @@ Keywords: drones, technology, dji, phantom, mavicpro, military, algorithm
 
 ---
 ---
-# #algorithmicwarfare
+# #algorithmicWarfare Preview
 
 ![](AW_1.jpg)
 ![](AW_2.jpg)
@@ -18,6 +18,8 @@ Keywords: drones, technology, dji, phantom, mavicpro, military, algorithm
 Video-Installation, 5 Min, Stereo, Loop
 Instagram Bot Live Performance
 Talk & Critique Session
+
+[Read More](/mike-huntemann-algorithmic-warfare)
 
 ---
 
