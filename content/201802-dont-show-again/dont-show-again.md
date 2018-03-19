@@ -28,7 +28,18 @@ Vernissage: 19. Februar 2018, 19:00 Uhr
 Geblergasse 40, 1170 Wien  
 [www.reaktor.art](https://www.reaktor.art/)
 
+![](Eröffnung_1.jpg)
+
+![](Eröffnung_2.jpg)
+
+![](Eröffnung_3.jpg)
+
+![](Eröffnung_4.jpg)
+
+![](Eröffnung_5.jpg)
+
 ---
+
 
 ## world record
 
