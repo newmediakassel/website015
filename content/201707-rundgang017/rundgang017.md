@@ -105,6 +105,8 @@ Jonas Leichsenring, 2017, Eis und Stahl, 25cm
 Von Generation zu Generation werden heranwachsende Männer erzogen sich mit bestimmten „männlichen“ Attributen zu identifizieren. „Wann ist ein Mann ein Mann?“. Mit welchen Männerbildern wachsen wir auf und wieso
 werden diese so selten hinterfragt. Was bedeutet es heutzutage ein Mann zu sein?
 
+[Read More](/big-boys-dont-cry)
+
 ---
 
 ![](big-labels.jpg)
@@ -114,6 +116,8 @@ werden diese so selten hinterfragt. Was bedeutet es heutzutage ein Mann zu sein?
 Jonas Leichsenring, 2017,  Textil, S
 
 Ein Lacoste Polo T-shirt kostet 100 Euro. TK Maxx verkauft große Marken für kleine Preise. Das Sonderposten Lacoste-Polo kostet dort 49,99 Euro. Nach dem jemand in der Filiale das Lacoste-Krokodil von der Brust des Hemdes gerissen hat wurde es weiter auf 17 Euro reduziert. Trotz Nachfrage blieb es bei dem Preis. Was ist der Wert eines Kleidungsstückes? Wie bewerten wir Marken in Zeiten von immer billigeren Ramschläden und globalisierter Massenproduktion?
+
+[Read More](/big-labels-small-prices)
 
 ---
 
@@ -148,6 +152,8 @@ J.A.S.S. ist das Ergebnis einer intensiven Auseinandersetzung mit der jeweiligen
 
 _[Dear Space](http://dearspace.online/)_ aims to examine the internet as a space from the perspective of the artists and tries to question their present relationship with the internet through almost perfectly opposite companion: letters.  Artists are received the question with a handwritten letter and asked to answer it in the same way.  These are the answers of the participated artists.  "Dear Space" is an ongoing online exhibition by Didem Sandıkcı.
 
+[Read More](/heimspiel-didem-sandikci-dear-space)
+
 ---
 
 ![](mario.jpg)
@@ -156,6 +162,8 @@ _[Dear Space](http://dearspace.online/)_ aims to examine the internet as a space
 
 Was sind Fake News? Wie verbreiten sie sich? Wie entstehen sie?
 Diese Videoinstallation beschäftigt sich mit dem Thema "Fake News" und zeigt auf, wie schnell sie sich ausbreiten.
+
+[Read More](/mario-strahl-fakeit-spinner)
 
 ---
 

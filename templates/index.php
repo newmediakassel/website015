@@ -100,6 +100,10 @@
 		#main h2 + ol {
 			margin-top: 0;
 		}
+
+		#main blockquote {
+			font-style: italic;
+		}
 		
 		#main .fluid-width-video-wrapper {
 			margin-bottom: 1rem;
