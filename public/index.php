@@ -1,10 +1,14 @@
 <?php
 
+ini_set('memory_limit', '1024M');
+
 require __DIR__ . '/../vendor/autoload.php';
 
 use joernroeder\Pocomd\Config;
 use joernroeder\Pocomd\Page;
 use joernroeder\Pocomd\NavigationLoader;
+
+ini_set('max_execution_time', 900);
 
 /**
  * The AppConfig class acts as a middleware between the content loaders and the routing framework (http://flightphp.com/)
