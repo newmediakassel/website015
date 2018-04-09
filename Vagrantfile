@@ -8,6 +8,9 @@ Vagrant.configure("2") do |config|
     config.vm.hostname = "scotchbox"
     config.vm.synced_folder ".", "/var/www", :mount_options => ["dmode=775", "fmode=774"]
 
+    config.ssh.username = "vagrant"
+    config.ssh.password = "vagrant"
+
     # Optional NFS. Make sure to remove other synced_folder line too
     #config.vm.synced_folder ".", "/var/www", :nfs => { :mount_options => ["dmode=777","fmode=666"] }
 
