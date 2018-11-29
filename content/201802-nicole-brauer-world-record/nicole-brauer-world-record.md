@@ -8,7 +8,7 @@ Keywords: Video, Screen Capture Computer Games
 # world record
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGFQTOu1EAo?list=UUqsKGab0BGce6xYWE0rB1qw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>  
-
+  
 [youtube.com/channel/UCqsKGab0BGce6xYWE0rB1qw](https://www.youtube.com/channel/UCqsKGab0BGce6xYWE0rB1qw)
   
 Speedrunning ist eine Spielpraxis, bei der es darum geht ein digitales Game (etwa ein Videospiel) so schnell wie möglich durchzuspielen. Neben brutalem Koordinations- und Durchhaltevermögen nutzen Speedrun Spieler\*innen häufig Exploits und Programmierfehler aus, mit denen sie große Teile des Game überspringen oder anders dekonstruieren, um zu ihrem Ziel zu kommen.  
