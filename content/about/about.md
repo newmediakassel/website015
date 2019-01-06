@@ -60,6 +60,10 @@ _– Judith Butler_
 	<td><em>Guest Professor</em></td>
 </tr>
 <tr>
+	<td><a href="http://rosa-menkman.blogspot.com/">Rosa Menkman</a></td>
+	<td><em>Guest Professor</em></td>
+</tr>
+<tr>
 	<td><a href="http://joernroeder.de">Jörn Röder</a></td>
 	<td><em>Artistic Associate</em></td>
 </tr>
